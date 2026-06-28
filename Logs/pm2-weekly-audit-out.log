@@ -1,0 +1,321 @@
+2026-02-25 12:59:17: ---
+2026-02-25 12:59:17: generated: 2026-02-25T07:59:17.060510+00:00
+2026-02-25 12:59:17: period_start: 2026-02-18
+2026-02-25 12:59:17: period_end: 2026-02-25
+2026-02-25 12:59:17: days_back: 7
+2026-02-25 12:59:17: odoo_source: unavailable
+2026-02-25 12:59:17: bank_source: unavailable
+2026-02-25 12:59:17: type: weekly_audit
+2026-02-25 12:59:17: ---
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: # Weekly CEO Briefing — 2026-02-25
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: > ⚠️ **DRY RUN** — All data is real but no write actions were taken this week.
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: ## Executive Summary
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: Period: **2026-02-18** → **2026-02-25** (7 days)
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: _Financial data unavailable — Odoo unreachable._
+2026-02-25 12:59:17: Tasks completed this week: **0** | Backlog: **21 items**.
+2026-02-25 12:59:17: ⚠️ **1 error(s) and 4 warning(s)** require attention.
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: ## Revenue & Financials
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: > ⚠️ Odoo unreachable — financial data unavailable.
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: ## Bank Reconciliation
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: > ℹ️ No bank CSV files found in Accounting/bank_statements/
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: > Place CSV exports in `Accounting/bank_statements/` to enable this section.
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17:             ## Work Summary
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17:             ### Completed This Week (0 tasks)
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17:             | Category | Count |
+2026-02-25 12:59:17:             |----------|-------|
+2026-02-25 12:59:17:             | — | 0 |
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17:             ### Outstanding Backlog (21 items)
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17:             | File | Type | Age |
+2026-02-25 12:59:17:             |------|------|-----|
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: | EMAIL_15e4291231036577_Account Security Alert.md | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_15e42bfaf3becb4f_Please confirm your email.md | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google  | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_168ecf1400f928f4_Product review.md | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_168ecf49609d6e0c_Product review.md | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 1048369 | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452 | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_16bc221a683be699_Your Items has been Shipped 104836972 | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_16e5a2aaffe972a0_A seller answered your question.md | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_16e611c1edec70b9_A seller answered your question.md | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md | Email | 10d |
+2026-02-25 12:59:17: | EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is con | Email | 10d |
+2026-02-25 12:59:17: | _…and 6 more_ | | |
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17:             ## Bottlenecks
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17:             | Item | Location | Waiting |
+2026-02-25 12:59:17:             |------|----------|---------|
+2026-02-25 12:59:17:             | FILE_test_file_2026-02-14.md | Needs_Action | 11 days |
+2026-02-25 12:59:17: | EMAIL_15e4291231036577_Account Security Alert.md | Needs_Action | 10 days |
+2026-02-25 12:59:17: | EMAIL_15e42bfaf3becb4f_Please confirm your email.md | Needs_Action | 10 days |
+2026-02-25 12:59:17: | EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google  | Needs_Action | 10 days |
+2026-02-25 12:59:17: | EMAIL_168ecf1400f928f4_Product review.md | Needs_Action | 10 days |
+2026-02-25 12:59:17: | EMAIL_168ecf49609d6e0c_Product review.md | Needs_Action | 10 days |
+2026-02-25 12:59:17: | EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md | Needs_Action | 10 days |
+2026-02-25 12:59:17: | EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 1048369 | Needs_Action | 10 days |
+2026-02-25 12:59:17: | EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452 | Needs_Action | 10 days |
+2026-02-25 12:59:17: | EMAIL_16bc221a683be699_Your Items has been Shipped 104836972 | Needs_Action | 10 days |
+2026-02-25 12:59:17: | APPROVAL_email_send_Test_Email_to_Client_20260214_195649.md | Pending_Approval | 10 days |
+2026-02-25 12:59:17: 
+2026-02-25 12:59:17: ## Proactive Suggestions
+2026-02-25 12:59:17: 
+2026-02-26 00:05:09: ---
+2026-02-26 00:05:09: generated: 2026-02-25T19:05:09.907455+00:00
+2026-02-26 00:05:09: period_start: 2026-02-19
+2026-02-26 00:05:09: period_end: 2026-02-26
+2026-02-26 00:05:09: days_back: 7
+2026-02-26 00:05:09: odoo_source: unavailable
+2026-02-26 00:05:09: bank_source: unavailable
+2026-02-26 00:05:09: type: weekly_audit
+2026-02-26 00:05:09: ---
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: # Weekly CEO Briefing — 2026-02-26
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: > ⚠️ **DRY RUN** — All data is real but no write actions were taken this week.
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: ## Executive Summary
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: Period: **2026-02-19** → **2026-02-26** (7 days)
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: _Financial data unavailable — Odoo unreachable._
+2026-02-26 00:05:09: Tasks completed this week: **0** | Backlog: **21 items**.
+2026-02-26 00:05:09: ⚠️ **0 error(s) and 4 warning(s)** require attention.
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: ## Revenue & Financials
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: > ⚠️ Odoo unreachable — financial data unavailable.
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: ## Bank Reconciliation
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: > ℹ️ No bank CSV files found in Accounting/bank_statements/
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: > Place CSV exports in `Accounting/bank_statements/` to enable this section.
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09:             ## Work Summary
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09:             ### Completed This Week (0 tasks)
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09:             | Category | Count |
+2026-02-26 00:05:09:             |----------|-------|
+2026-02-26 00:05:09:             | — | 0 |
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09:             ### Outstanding Backlog (21 items)
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09:             | File | Type | Age |
+2026-02-26 00:05:09:             |------|------|-----|
+2026-02-26 00:05:09:             | FILE_test_file_2026-02-14.md | File | 11d |
+2026-02-26 00:05:09: | EMAIL_15e4291231036577_Account Security Alert.md | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_15e42bfaf3becb4f_Please confirm your email.md | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google  | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_168ecf1400f928f4_Product review.md | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_168ecf49609d6e0c_Product review.md | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 1048369 | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452 | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_16bc221a683be699_Your Items has been Shipped 104836972 | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_16e5a2aaffe972a0_A seller answered your question.md | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_16e611c1edec70b9_A seller answered your question.md | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md | Email | 11d |
+2026-02-26 00:05:09: | EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is con | Email | 11d |
+2026-02-26 00:05:09: | _…and 6 more_ | | |
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09:             ## Bottlenecks
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09:             | Item | Location | Waiting |
+2026-02-26 00:05:09:             |------|----------|---------|
+2026-02-26 00:05:09:             | FILE_test_file_2026-02-14.md | Needs_Action | 11 days |
+2026-02-26 00:05:09: | EMAIL_15e4291231036577_Account Security Alert.md | Needs_Action | 11 days |
+2026-02-26 00:05:09: | EMAIL_15e42bfaf3becb4f_Please confirm your email.md | Needs_Action | 11 days |
+2026-02-26 00:05:09: | EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google  | Needs_Action | 11 days |
+2026-02-26 00:05:09: | EMAIL_168ecf1400f928f4_Product review.md | Needs_Action | 11 days |
+2026-02-26 00:05:09: | EMAIL_168ecf49609d6e0c_Product review.md | Needs_Action | 11 days |
+2026-02-26 00:05:09: | EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md | Needs_Action | 11 days |
+2026-02-26 00:05:09: | EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 1048369 | Needs_Action | 11 days |
+2026-02-26 00:05:09: | EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452 | Needs_Action | 11 days |
+2026-02-26 00:05:09: | EMAIL_16bc221a683be699_Your Items has been Shipped 104836972 | Needs_Action | 11 days |
+2026-02-26 00:05:09: | APPROVAL_email_send_Test_Email_to_Client_20260214_195649.md | Pending_Approval | 11 days |
+2026-02-26 00:05:09: 
+2026-02-26 00:05:09: ## Proactive Suggestions
+2026-02-26 00:05:09: 
+2026-02-27 11:00:50: ---
+2026-02-27 11:00:50: generated: 2026-02-27T06:00:50.312813+00:00
+2026-02-27 11:00:50: period_start: 2026-02-20
+2026-02-27 11:00:50: period_end: 2026-02-27
+2026-02-27 11:00:50: days_back: 7
+2026-02-27 11:00:50: odoo_source: unavailable
+2026-02-27 11:00:50: bank_source: unavailable
+2026-02-27 11:00:50: type: weekly_audit
+2026-02-27 11:00:50: ---
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: # Weekly CEO Briefing — 2026-02-27
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: > ⚠️ **DRY RUN** — All data is real but no write actions were taken this week.
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: ## Executive Summary
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: Period: **2026-02-20** → **2026-02-27** (7 days)
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: _Financial data unavailable — Odoo unreachable._
+2026-02-27 11:00:50: Tasks completed this week: **0** | Backlog: **22 items**.
+2026-02-27 11:00:50: ⚠️ **0 error(s) and 4 warning(s)** require attention.
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: ## Revenue & Financials
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: > ⚠️ Odoo unreachable — financial data unavailable.
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: ## Bank Reconciliation
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: > ℹ️ No bank CSV files found in Accounting/bank_statements/
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: > Place CSV exports in `Accounting/bank_statements/` to enable this section.
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50:             ## Work Summary
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50:             ### Completed This Week (0 tasks)
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50:             | Category | Count |
+2026-02-27 11:00:50:             |----------|-------|
+2026-02-27 11:00:50:             | — | 0 |
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50:             ### Outstanding Backlog (22 items)
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50:             | File | Type | Age |
+2026-02-27 11:00:50:             |------|------|-----|
+2026-02-27 11:00:50:             | EMAIL_15e4291231036577_Account Security Alert.md | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_15e42bfaf3becb4f_Please confirm your email.md | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google  | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_168ecf1400f928f4_Product review.md | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_168ecf49609d6e0c_Product review.md | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 1048369 | Email | 12d |
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: | EMAIL_16bc221a683be699_Your Items has been Shipped 104836972 | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_16e5a2aaffe972a0_A seller answered your question.md | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_16e611c1edec70b9_A seller answered your question.md | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is con | Email | 12d |
+2026-02-27 11:00:50: | EMAIL_19c2f82039def014_Order Being Processed 236119801752494 | Email | 12d |
+2026-02-27 11:00:50: | _…and 7 more_ | | |
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50:             ## Bottlenecks
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50:             | Item | Location | Waiting |
+2026-02-27 11:00:50:             |------|----------|---------|
+2026-02-27 11:00:50:             | EMAIL_15e4291231036577_Account Security Alert.md | Needs_Action | 12 days |
+2026-02-27 11:00:50: | EMAIL_15e42bfaf3becb4f_Please confirm your email.md | Needs_Action | 12 days |
+2026-02-27 11:00:50: | EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google  | Needs_Action | 12 days |
+2026-02-27 11:00:50: | EMAIL_168ecf1400f928f4_Product review.md | Needs_Action | 12 days |
+2026-02-27 11:00:50: | EMAIL_168ecf49609d6e0c_Product review.md | Needs_Action | 12 days |
+2026-02-27 11:00:50: | EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md | Needs_Action | 12 days |
+2026-02-27 11:00:50: | EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 1048369 | Needs_Action | 12 days |
+2026-02-27 11:00:50: | EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452 | Needs_Action | 12 days |
+2026-02-27 11:00:50: | EMAIL_16bc221a683be699_Your Items has been Shipped 104836972 | Needs_Action | 12 days |
+2026-02-27 11:00:50: | EMAIL_16e5a2aaffe972a0_A seller answered your question.md | Needs_Action | 12 days |
+2026-02-27 11:00:50: | APPROVAL_email_send_Test_Email_to_Client_20260214_195649.md | Pending_Approval | 12 days |
+2026-02-27 11:00:50: 
+2026-02-27 11:00:50: ## Proactive Suggestions
+2026-02-27 11:00:50: 
+2026-03-07 13:46:36: ---
+2026-03-07 13:46:36: generated: 2026-03-07T08:46:26.031324+00:00
+2026-03-07 13:46:36: period_start: 2026-02-28
+2026-03-07 13:46:36: period_end: 2026-03-07
+2026-03-07 13:46:36: days_back: 7
+2026-03-07 13:46:36: odoo_source: unavailable
+2026-03-07 13:46:36: bank_source: unavailable
+2026-03-07 13:46:36: type: weekly_audit
+2026-03-07 13:46:36: ---
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: # Weekly CEO Briefing — 2026-03-07
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: > ⚠️ **DRY RUN** — All data is real but no write actions were taken this week.
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: ## Executive Summary
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: Period: **2026-02-28** → **2026-03-07** (7 days)
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: _Financial data unavailable — Odoo unreachable._
+2026-03-07 13:46:36: Tasks completed this week: **0** | Backlog: **0 items**.
+2026-03-07 13:46:36: ⚠️ **1 error(s) and 2 warning(s)** require attention.
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: ## Revenue & Financials
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: > ⚠️ Odoo unreachable — financial data unavailable.
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: ## Bank Reconciliation
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: > ℹ️ No bank CSV files found in Accounting/bank_statements/
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: > Place CSV exports in `Accounting/bank_statements/` to enable this section.
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36:             ## Work Summary
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36:             ### Completed This Week (0 tasks)
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36:             | Category | Count |
+2026-03-07 13:46:36:             |----------|-------|
+2026-03-07 13:46:36:             | — | 0 |
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36:             ### Outstanding Backlog (0 items)
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36:             | File | Type | Age |
+2026-03-07 13:46:36:             |------|------|-----|
+2026-03-07 13:46:36:             | — | — | — |
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: ### Active Plans
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: | Plan | Progress | Age |
+2026-03-07 13:46:36: |------|----------|-----|
+2026-03-07 13:46:36: | PLAN_system_issues_2026-02-28.md | 0/6 | 8d |
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: ## Bottlenecks
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: | Item | Location | Waiting |
+2026-03-07 13:46:36: |------|----------|---------|
+2026-03-07 13:46:36: | APPROVAL_email_send_Test_Email_to_Client_20260214_195649.md | Pending_Approval | 20 days |
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: ## Proactive Suggestions
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: 1. 🔴 **[HIGH] Clear Pending Approvals**
+2026-03-07 13:46:36:    1 approval(s) have been waiting >3 days in /Pending_Approval.
+2026-03-07 13:46:36:    💡 *Open Obsidian, review each file, and move to /Approved or /Rejected.*
+2026-03-07 13:46:36: 2. 🟡 **[MEDIUM] Low Throughput This Week**
+2026-03-07 13:46:36:    Only 0 task(s) completed in the last 7 days.
+2026-03-07 13:46:36:    💡 *Review blockers — check if watchers are running and DRY_RUN is still enabled.*
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: ## Data Quality & Alerts
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36: - 🔴 **[ERROR]** `odoo`: Odoo is unreachable. Financial data missing from this report.
+2026-03-07 13:46:36:   - 💡 *Check ODOO_URL / credentials in .env and ensure Odoo is running.*
+2026-03-07 13:46:36: - 🟡 **[WARNING]** `bank`: Bank CSV may be stale: No CSV files found
+2026-03-07 13:46:36:   - 💡 *Upload latest bank statement to Accounting/bank_statements/*
+2026-03-07 13:46:36: - 🔵 **[INFO]** `bank`: No bank CSV files found. Bank reconciliation section will be empty.
+2026-03-07 13:46:36:   - 💡 *Export a CSV from your bank and place in Accounting/bank_statements/*
+2026-03-07 13:46:36: - 🟡 **[WARNING]** `vault`: 1 approval(s) waiting >3 days.
+2026-03-07 13:46:36:   - 💡 *Check Pending_Approval/ in Obsidian. Oldest: APPROVAL_email_send_Test_Email_to_Client_20260214_195649.md*
+2026-03-07 13:46:36: 
+2026-03-07 13:46:36:             ## System Health

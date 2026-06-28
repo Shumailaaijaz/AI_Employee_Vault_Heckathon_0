@@ -1,0 +1,48 @@
+# Credentials & secrets
+.env
+*.pickle
+*credentials*.json
+*token*.json
+*secret*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+*.egg-info/
+dist/
+build/
+wheels/
+
+
+# Node
+node_modules/
+
+# Obsidian internals
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# WhatsApp session data
+whatsapp_session/
+playwright_data/
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*~
+
+# uv
+uv.lock
+
+
+.mcp.json
+.env
+.env.*

@@ -1,0 +1,16 @@
+{
+  "name": "twitter-mcp",
+  "version": "1.0.0",
+  "description": "Dedicated Twitter/X MCP server — post tweets, thread summaries, DM monitoring, OAuth 2.0 refresh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "dotenv": "^16.4.7",
+    "twitter-api-v2": "^1.17.2",
+    "zod": "^3.23.8"
+  }
+}

@@ -1,0 +1,19 @@
+[project]
+name = "ai-employee"
+version = "0.1.0"
+description = "Personal AI Employee - Autonomous FTE powered by Claude Code and Obsidian"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-api-python-client>=2.0",
+    "google-auth-oauthlib>=1.0",
+    "google-auth-httplib2>=0.2",
+    "watchdog>=4.0",
+    "playwright>=1.40",
+    "python-dotenv>=1.0",
+    "odoorpc>=0.10.1",
+    "requests>=2.32.5",
+    "facebook-sdk>=3.1.0",
+    "tweepy>=4.16.0",
+    "flask>=3.1.3",
+]

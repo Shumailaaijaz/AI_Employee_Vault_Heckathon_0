@@ -1,0 +1,13 @@
+{
+  "task_id": "741e169bb2e8",
+  "component": "TestComp",
+  "operation": "test_op",
+  "payload": {
+    "key": "val"
+  },
+  "error": "test error",
+  "timestamp": "2026-02-25T03:34:47.632179+00:00",
+  "attempt_count": 1,
+  "status": "done",
+  "updated": "2026-02-25T03:34:47.671092+00:00"
+}

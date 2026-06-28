@@ -1,0 +1,53 @@
+# Docker Compose for Personal AI Employee - Gold Tier
+# Provides Odoo Community 19+ for accounting integration
+#
+# Usage:
+#   docker-compose up -d              # Start Odoo
+#   docker-compose down               # Stop Odoo
+#   docker-compose logs -f            # View logs
+#   docker-compose restart odoo       # Restart Odoo
+#
+# Odoo will be available at: http://localhost:8069
+# Default credentials: admin / admin
+
+services:
+  odoo:
+    image: odoo:19
+    container_name: ai-employee-odoo
+    restart: unless-stopped
+    ports:
+      - "8069:8069"
+    environment:
+      - ODOO_DB=mycompany
+      - ODOO_ADMIN_PASSWORD=admin
+    volumes:
+      - odoo-web-data:/var/lib/odoo
+      - ./odoo-custom-addons:/mnt/odoo/custom/addons:ro
+      - ./Logs/odoo:/var/log/odoo:rw
+    depends_on:
+      - postgres
+    networks:
+      - ai-employee-network
+
+  postgres:
+    image: postgres:15
+    container_name: ai-employee-odoo-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=odoo
+      - POSTGRES_PASSWORD=odoo
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    networks:
+      - ai-employee-network
+
+networks:
+  ai-employee-network:
+    driver: bridge
+
+volumes:
+  odoo-web-data:
+    driver: local
+  postgres-data:
+    driver: local

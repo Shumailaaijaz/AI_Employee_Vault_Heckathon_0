@@ -1,0 +1,590 @@
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [dotenv.main] WARNING: python-dotenv could not parse statement starting at line 13
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [dotenv.main] WARNING: python-dotenv could not parse statement starting at line 20
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO: CrossDomainIntegrator ready | dry_run=True | poll=30s | correlation_window=24h
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO: ==============================================================
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO:   Personal AI Employee — Cross-Domain Integrator
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO:   Vault      : /mnt/d/AI_Employee_Vault/AI_Employee_Vault
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO:   Source     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO:   Output     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Cross_Domain/Needs_Action
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO:   Approval   : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Pending_Approval
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO:   Dry Run    : True
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO:   Poll       : 30s
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO:   Corr Window: 24h
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO: ==============================================================
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO: Starting CrossDomainIntegrator (interval: 30s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault)
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO: Found 16 new item(s)
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-02-14.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 07:20:12: 2026-02-25 07:20:12 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:13: 2026-02-25 07:20:13 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 07:20:13: 2026-02-25 07:20:13 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:13: 2026-02-25 07:20:13 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 07:20:13: 2026-02-25 07:20:13 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:13: 2026-02-25 07:20:13 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e611c1edec70b9_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 07:20:13: 2026-02-25 07:20:13 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:13: 2026-02-25 07:20:13 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e5a2aaffe972a0_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 07:20:13: 2026-02-25 07:20:13 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:14: 2026-02-25 07:20:14 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-25 07:20:14: 2026-02-25 07:20:14 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:14: 2026-02-25 07:20:14 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-25 07:20:14: 2026-02-25 07:20:14 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:14: 2026-02-25 07:20:14 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-25 07:20:14: 2026-02-25 07:20:14 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:14: 2026-02-25 07:20:14 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 07:20:14: 2026-02-25 07:20:14 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:15: 2026-02-25 07:20:15 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf49609d6e0c_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-02-25 07:20:15: 2026-02-25 07:20:15 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:15: 2026-02-25 07:20:15 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf1400f928f4_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-02-25 07:20:15: 2026-02-25 07:20:15 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:15: 2026-02-25 07:20:15 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-02-25 07:20:15: 2026-02-25 07:20:15 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:15: 2026-02-25 07:20:15 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e42bfaf3becb4f_Please confirm your email.md  source=email  mcp=gmail-send  sender='Pinterest <confirm@account.pinterest.com>'  topics=['urgent']
+2026-02-25 07:20:15: 2026-02-25 07:20:15 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:16: 2026-02-25 07:20:16 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4291231036577_Account Security Alert.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-02-25 07:20:16: 2026-02-25 07:20:16 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 07:20:46: 2026-02-25 07:20:46 [CrossDomainIntegrator] INFO: Found 1 new item(s)
+2026-02-25 07:20:46: 2026-02-25 07:20:46 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-02-25.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-02-25 07:20:46: 2026-02-25 07:20:46 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-02-25 07:21:41: 2026-02-25 07:21:41 [CrossDomainIntegrator] INFO: Signal 2 received — shutting down gracefully.
+2026-02-25 07:21:41: Traceback (most recent call last):
+2026-02-25 07:21:41:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/cross_domain_integration.py", line 851, in <module>
+2026-02-25 07:21:41:     main()
+2026-02-25 07:21:41:     ~~~~^^
+2026-02-25 07:21:41:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/cross_domain_integration.py", line 847, in main
+2026-02-25 07:21:41:     integrator.run()
+2026-02-25 07:21:41:     ~~~~~~~~~~~~~~^^
+2026-02-25 07:21:41:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/base_watcher.py", line 92, in run
+2026-02-25 07:21:41:     time.sleep(self.check_interval)
+2026-02-25 07:21:41:     ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+2026-02-25 07:21:41:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/cross_domain_integration.py", line 830, in _handle_signal
+2026-02-25 07:21:41:     raise KeyboardInterrupt
+2026-02-25 07:21:41: KeyboardInterrupt
+2026-02-25 12:59:00: 2026-02-25 12:59:00 [dotenv.main] WARNING: python-dotenv could not parse statement starting at line 13
+2026-02-25 12:59:00: 2026-02-25 12:59:00 [dotenv.main] WARNING: python-dotenv could not parse statement starting at line 20
+2026-02-25 12:59:01: 2026-02-25 12:59:01 [CrossDomainIntegrator] INFO: CrossDomainIntegrator ready | dry_run=True | poll=30s | correlation_window=24h
+2026-02-25 12:59:01: 2026-02-25 12:59:01 [CrossDomainIntegrator] INFO: ==============================================================
+2026-02-25 12:59:01: 2026-02-25 12:59:01 [CrossDomainIntegrator] INFO:   Personal AI Employee — Cross-Domain Integrator
+2026-02-25 12:59:01: 2026-02-25 12:59:01 [CrossDomainIntegrator] INFO:   Vault      : /mnt/d/AI_Employee_Vault/AI_Employee_Vault
+2026-02-25 12:59:01: 2026-02-25 12:59:01 [CrossDomainIntegrator] INFO:   Source     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action
+2026-02-25 12:59:01: 2026-02-25 12:59:01 [CrossDomainIntegrator] INFO:   Output     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Cross_Domain/Needs_Action
+2026-02-25 12:59:01: 2026-02-25 12:59:01 [CrossDomainIntegrator] INFO:   Approval   : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Pending_Approval
+2026-02-25 12:59:01: 2026-02-25 12:59:01 [CrossDomainIntegrator] INFO:   Dry Run    : True
+2026-02-25 12:59:01: 2026-02-25 12:59:01 [CrossDomainIntegrator] INFO:   Poll       : 30s
+2026-02-25 12:59:01: 2026-02-25 12:59:01 [CrossDomainIntegrator] INFO:   Corr Window: 24h
+2026-02-25 12:59:01: 2026-02-25 12:59:01 [CrossDomainIntegrator] INFO: ==============================================================
+2026-02-25 12:59:02: 2026-02-25 12:59:02 [CrossDomainIntegrator] INFO: Starting CrossDomainIntegrator (interval: 30s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-02-25 12:59:04: 2026-02-25 12:59:04 [CrossDomainIntegrator] INFO: Found 21 new item(s)
+2026-02-25 12:59:04: 2026-02-25 12:59:04 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-02-14.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-02-25 12:59:04: 2026-02-25 12:59:04 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-02-25 12:59:05: 2026-02-25 12:59:05 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 12:59:05: 2026-02-25 12:59:05 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:05: 2026-02-25 12:59:05 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 12:59:05: 2026-02-25 12:59:05 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:05: 2026-02-25 12:59:05 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 12:59:05: 2026-02-25 12:59:05 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:05: 2026-02-25 12:59:05 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 12:59:05: 2026-02-25 12:59:05 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:06: 2026-02-25 12:59:06 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e611c1edec70b9_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 12:59:06: 2026-02-25 12:59:06 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:06: 2026-02-25 12:59:06 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e5a2aaffe972a0_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 12:59:06: 2026-02-25 12:59:06 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:06: 2026-02-25 12:59:06 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-25 12:59:06: 2026-02-25 12:59:06 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:07: 2026-02-25 12:59:07 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-25 12:59:07: 2026-02-25 12:59:07 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:07: 2026-02-25 12:59:07 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-25 12:59:07: 2026-02-25 12:59:07 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:08: 2026-02-25 12:59:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-25 12:59:08: 2026-02-25 12:59:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:08: 2026-02-25 12:59:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf49609d6e0c_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-02-25 12:59:08: 2026-02-25 12:59:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:09: 2026-02-25 12:59:09 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf1400f928f4_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-02-25 12:59:09: 2026-02-25 12:59:09 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:10: 2026-02-25 12:59:10 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-02-25 12:59:10: 2026-02-25 12:59:10 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:10: 2026-02-25 12:59:10 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e42bfaf3becb4f_Please confirm your email.md  source=email  mcp=gmail-send  sender='Pinterest <confirm@account.pinterest.com>'  topics=['urgent']
+2026-02-25 12:59:10: 2026-02-25 12:59:10 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:11: 2026-02-25 12:59:11 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4291231036577_Account Security Alert.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-02-25 12:59:11: 2026-02-25 12:59:11 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-25 12:59:13: 2026-02-25 12:59:13 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-02-25.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-02-25 12:59:13: 2026-02-25 12:59:13 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-02-26 00:04:54: 2026-02-26 00:04:54 [CrossDomainIntegrator] INFO: Signal 2 received — shutting down gracefully.
+2026-02-26 00:04:55: Traceback (most recent call last):
+2026-02-26 00:04:55:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/cross_domain_integration.py", line 851, in <module>
+2026-02-26 00:04:55:     main()
+2026-02-26 00:04:55:     ~~~~^^
+2026-02-26 00:04:55:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/cross_domain_integration.py", line 847, in main
+2026-02-26 00:04:55:     integrator.run()
+2026-02-26 00:04:55:     ~~~~~~~~~~~~~~^^
+2026-02-26 00:04:55:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/base_watcher.py", line 171, in run
+2026-02-26 00:04:55:     time.sleep(self.check_interval)
+2026-02-26 00:04:55:     ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+2026-02-26 00:04:55:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/cross_domain_integration.py", line 830, in _handle_signal
+2026-02-26 00:04:55:     raise KeyboardInterrupt
+2026-02-26 00:04:55: KeyboardInterrupt
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO: CrossDomainIntegrator ready | dry_run=True | poll=30s | correlation_window=24h
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO: ==============================================================
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO:   Personal AI Employee — Cross-Domain Integrator
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO:   Vault      : /mnt/d/AI_Employee_Vault/AI_Employee_Vault
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO:   Source     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO:   Output     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Cross_Domain/Needs_Action
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO:   Approval   : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Pending_Approval
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO:   Dry Run    : True
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO:   Poll       : 30s
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO:   Corr Window: 24h
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO: ==============================================================
+2026-02-26 00:05:00: 2026-02-26 00:05:00 [CrossDomainIntegrator] INFO: Starting CrossDomainIntegrator (interval: 30s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-02-26 00:05:01: 2026-02-26 00:05:01 [CrossDomainIntegrator] INFO: Found 21 new item(s)
+2026-02-26 00:05:01: 2026-02-26 00:05:01 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-02-14.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-02-26 00:05:01: 2026-02-26 00:05:01 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-02-26 00:05:02: 2026-02-26 00:05:02 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-26 00:05:02: 2026-02-26 00:05:02 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:03: 2026-02-26 00:05:03 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-26 00:05:03: 2026-02-26 00:05:03 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:04: 2026-02-26 00:05:04 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-26 00:05:04: 2026-02-26 00:05:04 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:04: 2026-02-26 00:05:04 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-26 00:05:04: 2026-02-26 00:05:04 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:05: 2026-02-26 00:05:05 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e611c1edec70b9_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-26 00:05:05: 2026-02-26 00:05:05 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:05: 2026-02-26 00:05:05 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e5a2aaffe972a0_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-26 00:05:05: 2026-02-26 00:05:05 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:06: 2026-02-26 00:05:06 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-26 00:05:06: 2026-02-26 00:05:06 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:07: 2026-02-26 00:05:07 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-26 00:05:07: 2026-02-26 00:05:07 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:07: 2026-02-26 00:05:07 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-26 00:05:07: 2026-02-26 00:05:07 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:07: 2026-02-26 00:05:07 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-26 00:05:07: 2026-02-26 00:05:07 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:08: 2026-02-26 00:05:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf49609d6e0c_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-02-26 00:05:08: 2026-02-26 00:05:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:08: 2026-02-26 00:05:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf1400f928f4_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-02-26 00:05:08: 2026-02-26 00:05:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:09: 2026-02-26 00:05:09 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-02-26 00:05:09: 2026-02-26 00:05:09 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:09: 2026-02-26 00:05:09 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e42bfaf3becb4f_Please confirm your email.md  source=email  mcp=gmail-send  sender='Pinterest <confirm@account.pinterest.com>'  topics=['urgent']
+2026-02-26 00:05:09: 2026-02-26 00:05:09 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:10: 2026-02-26 00:05:10 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4291231036577_Account Security Alert.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-02-26 00:05:10: 2026-02-26 00:05:10 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-26 00:05:12: 2026-02-26 00:05:12 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-02-25.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-02-26 00:05:12: 2026-02-26 00:05:12 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-02-27 10:59:21: 2026-02-27 10:59:20 [CrossDomainIntegrator] INFO: Signal 2 received — shutting down gracefully.
+2026-02-27 10:59:54: 2026-02-27 10:59:54 [CrossDomainIntegrator] INFO: CrossDomainIntegrator ready | dry_run=True | poll=30s | correlation_window=24h
+2026-02-27 10:59:54: 2026-02-27 10:59:54 [CrossDomainIntegrator] INFO: ==============================================================
+2026-02-27 10:59:54: 2026-02-27 10:59:54 [CrossDomainIntegrator] INFO:   Personal AI Employee — Cross-Domain Integrator
+2026-02-27 10:59:54: 2026-02-27 10:59:54 [CrossDomainIntegrator] INFO:   Vault      : /mnt/d/AI_Employee_Vault/AI_Employee_Vault
+2026-02-27 10:59:54: 2026-02-27 10:59:54 [CrossDomainIntegrator] INFO:   Source     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action
+2026-02-27 10:59:54: 2026-02-27 10:59:54 [CrossDomainIntegrator] INFO:   Output     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Cross_Domain/Needs_Action
+2026-02-27 10:59:54: 2026-02-27 10:59:54 [CrossDomainIntegrator] INFO:   Approval   : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Pending_Approval
+2026-02-27 10:59:54: 2026-02-27 10:59:54 [CrossDomainIntegrator] INFO:   Dry Run    : True
+2026-02-27 10:59:54: 2026-02-27 10:59:54 [CrossDomainIntegrator] INFO:   Poll       : 30s
+2026-02-27 10:59:54: 2026-02-27 10:59:54 [CrossDomainIntegrator] INFO:   Corr Window: 24h
+2026-02-27 10:59:54: 2026-02-27 10:59:54 [CrossDomainIntegrator] INFO: ==============================================================
+2026-02-27 10:59:55: 2026-02-27 10:59:55 [CrossDomainIntegrator] INFO: Starting CrossDomainIntegrator (interval: 30s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-02-27 10:59:58: 2026-02-27 10:59:58 [CrossDomainIntegrator] INFO: Found 22 new item(s)
+2026-02-27 10:59:58: 2026-02-27 10:59:58 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-02-14.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-02-27 10:59:58: 2026-02-27 10:59:58 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-02-27 11:00:09: 2026-02-27 11:00:09 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-27 11:00:09: 2026-02-27 11:00:09 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:18: 2026-02-27 11:00:18 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-27 11:00:18: 2026-02-27 11:00:18 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:20: 2026-02-27 11:00:20 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-27 11:00:20: 2026-02-27 11:00:20 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:20: 2026-02-27 11:00:20 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-27 11:00:20: 2026-02-27 11:00:20 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:23: 2026-02-27 11:00:23 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e611c1edec70b9_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-27 11:00:23: 2026-02-27 11:00:23 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:26: 2026-02-27 11:00:26 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e5a2aaffe972a0_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-27 11:00:26: 2026-02-27 11:00:26 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:28: 2026-02-27 11:00:28 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-27 11:00:28: 2026-02-27 11:00:28 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:28: 2026-02-27 11:00:28 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-27 11:00:28: 2026-02-27 11:00:28 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:28: 2026-02-27 11:00:28 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-02-27 11:00:28: 2026-02-27 11:00:28 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:29: 2026-02-27 11:00:29 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-02-27 11:00:29: 2026-02-27 11:00:29 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:30: 2026-02-27 11:00:30 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf49609d6e0c_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-02-27 11:00:30: 2026-02-27 11:00:30 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:30: 2026-02-27 11:00:30 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf1400f928f4_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-02-27 11:00:30: 2026-02-27 11:00:30 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:31: 2026-02-27 11:00:31 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-02-27 11:00:31: 2026-02-27 11:00:31 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:31: 2026-02-27 11:00:31 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e42bfaf3becb4f_Please confirm your email.md  source=email  mcp=gmail-send  sender='Pinterest <confirm@account.pinterest.com>'  topics=['urgent']
+2026-02-27 11:00:31: 2026-02-27 11:00:31 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:31: 2026-02-27 11:00:31 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4291231036577_Account Security Alert.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-02-27 11:00:31: 2026-02-27 11:00:31 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-02-27 11:00:34: 2026-02-27 11:00:34 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-02-25.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-02-27 11:00:34: 2026-02-27 11:00:34 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-02-27 11:00:35: 2026-02-27 11:00:35 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-02-27.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-02-27 11:00:35: 2026-02-27 11:00:35 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-03-08 01:30:05: 2026-03-08 01:29:46 [CrossDomainIntegrator] INFO: Found 1 new item(s)
+2026-03-08 01:30:16: 2026-03-08 01:30:16 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md  source=email  mcp=gmail-send  sender='Meta <notification@email.meta.com>'  topics=['urgent']
+2026-03-08 01:30:18: 2026-03-08 01:30:18 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-03-08 01:33:37: 2026-03-08 01:33:37 [CrossDomainIntegrator] INFO: Found 1 new item(s)
+2026-03-08 01:33:37: 2026-03-08 01:33:37 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md  source=email  mcp=gmail-send  sender='Instagram <security@mail.instagram.com>'  topics=['urgent']
+2026-03-08 01:33:38: 2026-03-08 01:33:38 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO: CrossDomainIntegrator ready | dry_run=True | poll=30s | correlation_window=24h
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO:   Personal AI Employee — Cross-Domain Integrator
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO:   Vault      : /mnt/d/AI_Employee_Vault/AI_Employee_Vault
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO:   Source     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO:   Output     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Cross_Domain/Needs_Action
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO:   Approval   : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Pending_Approval
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO:   Dry Run    : True
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO:   Poll       : 30s
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO:   Corr Window: 24h
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-04 06:48:32: 2026-06-04 06:48:32 [CrossDomainIntegrator] INFO: Starting CrossDomainIntegrator (interval: 30s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-04 06:48:33: 2026-06-04 06:48:33 [CrossDomainIntegrator] INFO: Found 17 new item(s)
+2026-06-04 06:48:34: 2026-06-04 06:48:34 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 06:48:34: 2026-06-04 06:48:34 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:34: 2026-06-04 06:48:34 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 06:48:34: 2026-06-04 06:48:34 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:34: 2026-06-04 06:48:34 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 06:48:34: 2026-06-04 06:48:34 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:34: 2026-06-04 06:48:34 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 06:48:34: 2026-06-04 06:48:34 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:34: 2026-06-04 06:48:34 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e611c1edec70b9_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 06:48:34: 2026-06-04 06:48:34 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:35: 2026-06-04 06:48:35 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e5a2aaffe972a0_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 06:48:35: 2026-06-04 06:48:35 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:35: 2026-06-04 06:48:35 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-04 06:48:35: 2026-06-04 06:48:35 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:35: 2026-06-04 06:48:35 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-04 06:48:35: 2026-06-04 06:48:35 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:35: 2026-06-04 06:48:35 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-04 06:48:35: 2026-06-04 06:48:35 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:35: 2026-06-04 06:48:35 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 06:48:35: 2026-06-04 06:48:35 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:36: 2026-06-04 06:48:36 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf49609d6e0c_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-04 06:48:36: 2026-06-04 06:48:36 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:36: 2026-06-04 06:48:36 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf1400f928f4_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-04 06:48:36: 2026-06-04 06:48:36 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:36: 2026-06-04 06:48:36 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-04 06:48:36: 2026-06-04 06:48:36 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:36: 2026-06-04 06:48:36 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e42bfaf3becb4f_Please confirm your email.md  source=email  mcp=gmail-send  sender='Pinterest <confirm@account.pinterest.com>'  topics=['urgent']
+2026-06-04 06:48:36: 2026-06-04 06:48:36 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:36: 2026-06-04 06:48:36 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4291231036577_Account Security Alert.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-04 06:48:36: 2026-06-04 06:48:36 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:37: 2026-06-04 06:48:37 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md  source=email  mcp=gmail-send  sender='Meta <notification@email.meta.com>'  topics=['urgent']
+2026-06-04 06:48:37: 2026-06-04 06:48:37 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:48:37: 2026-06-04 06:48:37 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md  source=email  mcp=gmail-send  sender='Instagram <security@mail.instagram.com>'  topics=['urgent']
+2026-06-04 06:48:37: 2026-06-04 06:48:37 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 06:49:08: 2026-06-04 06:49:08 [CrossDomainIntegrator] INFO: Found 1 new item(s)
+2026-06-04 06:49:08: 2026-06-04 06:49:08 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-04.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-04 06:49:08: 2026-06-04 06:49:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO: CrossDomainIntegrator ready | dry_run=True | poll=30s | correlation_window=24h
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO:   Personal AI Employee — Cross-Domain Integrator
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO:   Vault      : /mnt/d/AI_Employee_Vault/AI_Employee_Vault
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO:   Source     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO:   Output     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Cross_Domain/Needs_Action
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO:   Approval   : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Pending_Approval
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO:   Dry Run    : True
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO:   Poll       : 30s
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO:   Corr Window: 24h
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-04 12:48:36: 2026-06-04 12:48:36 [CrossDomainIntegrator] INFO: Starting CrossDomainIntegrator (interval: 30s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-04 12:48:37: 2026-06-04 12:48:37 [CrossDomainIntegrator] INFO: Found 18 new item(s)
+2026-06-04 12:48:37: 2026-06-04 12:48:37 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 12:48:37: 2026-06-04 12:48:37 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:37: 2026-06-04 12:48:37 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 12:48:37: 2026-06-04 12:48:37 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:38: 2026-06-04 12:48:38 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 12:48:38: 2026-06-04 12:48:38 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:38: 2026-06-04 12:48:38 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 12:48:38: 2026-06-04 12:48:38 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:38: 2026-06-04 12:48:38 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e611c1edec70b9_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 12:48:38: 2026-06-04 12:48:38 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:40: 2026-06-04 12:48:40 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e5a2aaffe972a0_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 12:48:40: 2026-06-04 12:48:40 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:40: 2026-06-04 12:48:40 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-04 12:48:40: 2026-06-04 12:48:40 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:40: 2026-06-04 12:48:40 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-04 12:48:40: 2026-06-04 12:48:40 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:41: 2026-06-04 12:48:41 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-04 12:48:41: 2026-06-04 12:48:41 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:41: 2026-06-04 12:48:41 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 12:48:41: 2026-06-04 12:48:41 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:41: 2026-06-04 12:48:41 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf49609d6e0c_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-04 12:48:41: 2026-06-04 12:48:41 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:41: 2026-06-04 12:48:41 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf1400f928f4_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-04 12:48:42: 2026-06-04 12:48:41 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:42: 2026-06-04 12:48:42 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-04 12:48:42: 2026-06-04 12:48:42 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:42: 2026-06-04 12:48:42 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e42bfaf3becb4f_Please confirm your email.md  source=email  mcp=gmail-send  sender='Pinterest <confirm@account.pinterest.com>'  topics=['urgent']
+2026-06-04 12:48:42: 2026-06-04 12:48:42 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:42: 2026-06-04 12:48:42 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4291231036577_Account Security Alert.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-04 12:48:42: 2026-06-04 12:48:42 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:43: 2026-06-04 12:48:43 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md  source=email  mcp=gmail-send  sender='Meta <notification@email.meta.com>'  topics=['urgent']
+2026-06-04 12:48:43: 2026-06-04 12:48:43 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:43: 2026-06-04 12:48:43 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md  source=email  mcp=gmail-send  sender='Instagram <security@mail.instagram.com>'  topics=['urgent']
+2026-06-04 12:48:43: 2026-06-04 12:48:43 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 12:48:43: 2026-06-04 12:48:43 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-04.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-04 12:48:43: 2026-06-04 12:48:43 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO: CrossDomainIntegrator ready | dry_run=True | poll=30s | correlation_window=24h
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO:   Personal AI Employee — Cross-Domain Integrator
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO:   Vault      : /mnt/d/AI_Employee_Vault/AI_Employee_Vault
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO:   Source     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO:   Output     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Cross_Domain/Needs_Action
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO:   Approval   : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Pending_Approval
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO:   Dry Run    : True
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO:   Poll       : 30s
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO:   Corr Window: 24h
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO: Starting CrossDomainIntegrator (interval: 30s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-04 20:23:21: 2026-06-04 20:23:21 [CrossDomainIntegrator] INFO: Found 18 new item(s)
+2026-06-04 20:23:22: 2026-06-04 20:23:22 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 20:23:22: 2026-06-04 20:23:22 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:23: 2026-06-04 20:23:23 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 20:23:23: 2026-06-04 20:23:23 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:23: 2026-06-04 20:23:23 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 20:23:23: 2026-06-04 20:23:23 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:23: 2026-06-04 20:23:23 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 20:23:23: 2026-06-04 20:23:23 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:23: 2026-06-04 20:23:23 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e611c1edec70b9_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 20:23:23: 2026-06-04 20:23:23 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e5a2aaffe972a0_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf49609d6e0c_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-04 20:23:24: 2026-06-04 20:23:24 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:25: 2026-06-04 20:23:25 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf1400f928f4_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-04 20:23:25: 2026-06-04 20:23:25 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:25: 2026-06-04 20:23:25 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-04 20:23:25: 2026-06-04 20:23:25 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:26: 2026-06-04 20:23:26 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e42bfaf3becb4f_Please confirm your email.md  source=email  mcp=gmail-send  sender='Pinterest <confirm@account.pinterest.com>'  topics=['urgent']
+2026-06-04 20:23:26: 2026-06-04 20:23:26 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:26: 2026-06-04 20:23:26 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4291231036577_Account Security Alert.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-04 20:23:26: 2026-06-04 20:23:26 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:26: 2026-06-04 20:23:26 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md  source=email  mcp=gmail-send  sender='Meta <notification@email.meta.com>'  topics=['urgent']
+2026-06-04 20:23:26: 2026-06-04 20:23:26 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:26: 2026-06-04 20:23:26 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md  source=email  mcp=gmail-send  sender='Instagram <security@mail.instagram.com>'  topics=['urgent']
+2026-06-04 20:23:26: 2026-06-04 20:23:26 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-04 20:23:26: 2026-06-04 20:23:26 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-04.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-04 20:23:26: 2026-06-04 20:23:26 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO: CrossDomainIntegrator ready | dry_run=True | poll=30s | correlation_window=24h
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO:   Personal AI Employee — Cross-Domain Integrator
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO:   Vault      : /mnt/d/AI_Employee_Vault/AI_Employee_Vault
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO:   Source     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO:   Output     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Cross_Domain/Needs_Action
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO:   Approval   : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Pending_Approval
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO:   Dry Run    : True
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO:   Poll       : 30s
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO:   Corr Window: 24h
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-16 01:23:06: 2026-06-16 01:23:06 [CrossDomainIntegrator] INFO: Starting CrossDomainIntegrator (interval: 30s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-16 01:23:07: 2026-06-16 01:23:07 [CrossDomainIntegrator] INFO: Found 18 new item(s)
+2026-06-16 01:23:07: 2026-06-16 01:23:07 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 01:23:07: 2026-06-16 01:23:07 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:07: 2026-06-16 01:23:07 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 01:23:07: 2026-06-16 01:23:07 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e611c1edec70b9_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e5a2aaffe972a0_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf49609d6e0c_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf1400f928f4_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-16 01:23:08: 2026-06-16 01:23:08 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:09: 2026-06-16 01:23:09 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-16 01:23:09: 2026-06-16 01:23:09 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:09: 2026-06-16 01:23:09 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e42bfaf3becb4f_Please confirm your email.md  source=email  mcp=gmail-send  sender='Pinterest <confirm@account.pinterest.com>'  topics=['urgent']
+2026-06-16 01:23:09: 2026-06-16 01:23:09 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:09: 2026-06-16 01:23:09 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4291231036577_Account Security Alert.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-16 01:23:09: 2026-06-16 01:23:09 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:10: 2026-06-16 01:23:10 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md  source=email  mcp=gmail-send  sender='Meta <notification@email.meta.com>'  topics=['urgent']
+2026-06-16 01:23:10: 2026-06-16 01:23:10 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:10: 2026-06-16 01:23:10 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md  source=email  mcp=gmail-send  sender='Instagram <security@mail.instagram.com>'  topics=['urgent']
+2026-06-16 01:23:10: 2026-06-16 01:23:10 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 01:23:10: 2026-06-16 01:23:10 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-04.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-16 01:23:10: 2026-06-16 01:23:10 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-16 01:23:41: 2026-06-16 01:23:41 [CrossDomainIntegrator] INFO: Found 1 new item(s)
+2026-06-16 01:23:41: 2026-06-16 01:23:41 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-15.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-16 01:23:41: 2026-06-16 01:23:41 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO: CrossDomainIntegrator ready | dry_run=True | poll=30s | correlation_window=24h
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO:   Personal AI Employee — Cross-Domain Integrator
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO:   Vault      : /mnt/d/AI_Employee_Vault/AI_Employee_Vault
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO:   Source     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO:   Output     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Cross_Domain/Needs_Action
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO:   Approval   : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Pending_Approval
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO:   Dry Run    : True
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO:   Poll       : 30s
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO:   Corr Window: 24h
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-16 09:53:52: 2026-06-16 09:53:52 [CrossDomainIntegrator] INFO: Starting CrossDomainIntegrator (interval: 30s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-16 09:53:53: 2026-06-16 09:53:53 [CrossDomainIntegrator] INFO: Found 19 new item(s)
+2026-06-16 09:53:53: 2026-06-16 09:53:53 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 09:53:53: 2026-06-16 09:53:53 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:53: 2026-06-16 09:53:53 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 09:53:53: 2026-06-16 09:53:53 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:53: 2026-06-16 09:53:53 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 09:53:53: 2026-06-16 09:53:53 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:54: 2026-06-16 09:53:54 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 09:53:54: 2026-06-16 09:53:54 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:54: 2026-06-16 09:53:54 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e611c1edec70b9_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 09:53:54: 2026-06-16 09:53:54 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:54: 2026-06-16 09:53:54 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e5a2aaffe972a0_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 09:53:54: 2026-06-16 09:53:54 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:55: 2026-06-16 09:53:55 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 09:53:55: 2026-06-16 09:53:55 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:55: 2026-06-16 09:53:55 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 09:53:55: 2026-06-16 09:53:55 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:56: 2026-06-16 09:53:56 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 09:53:56: 2026-06-16 09:53:56 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:56: 2026-06-16 09:53:56 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 09:53:56: 2026-06-16 09:53:56 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:56: 2026-06-16 09:53:56 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf49609d6e0c_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-16 09:53:56: 2026-06-16 09:53:56 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:57: 2026-06-16 09:53:57 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf1400f928f4_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-16 09:53:57: 2026-06-16 09:53:57 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:57: 2026-06-16 09:53:57 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-16 09:53:57: 2026-06-16 09:53:57 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:58: 2026-06-16 09:53:58 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e42bfaf3becb4f_Please confirm your email.md  source=email  mcp=gmail-send  sender='Pinterest <confirm@account.pinterest.com>'  topics=['urgent']
+2026-06-16 09:53:58: 2026-06-16 09:53:58 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:53:59: 2026-06-16 09:53:59 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4291231036577_Account Security Alert.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-16 09:53:59: 2026-06-16 09:53:59 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:54:00: 2026-06-16 09:54:00 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md  source=email  mcp=gmail-send  sender='Meta <notification@email.meta.com>'  topics=['urgent']
+2026-06-16 09:54:00: 2026-06-16 09:54:00 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:54:01: 2026-06-16 09:54:01 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md  source=email  mcp=gmail-send  sender='Instagram <security@mail.instagram.com>'  topics=['urgent']
+2026-06-16 09:54:01: 2026-06-16 09:54:01 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 09:54:01: 2026-06-16 09:54:01 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-04.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-16 09:54:01: 2026-06-16 09:54:01 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-16 09:54:02: 2026-06-16 09:54:02 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-15.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-16 09:54:02: 2026-06-16 09:54:02 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-16 09:54:32: 2026-06-16 09:54:32 [CrossDomainIntegrator] INFO: Found 1 new item(s)
+2026-06-16 09:54:32: 2026-06-16 09:54:32 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-16.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-16 09:54:32: 2026-06-16 09:54:32 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO: CrossDomainIntegrator ready | dry_run=True | poll=30s | correlation_window=24h
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO:   Personal AI Employee — Cross-Domain Integrator
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO:   Vault      : /mnt/d/AI_Employee_Vault/AI_Employee_Vault
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO:   Source     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO:   Output     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Cross_Domain/Needs_Action
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO:   Approval   : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Pending_Approval
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO:   Dry Run    : True
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO:   Poll       : 30s
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO:   Corr Window: 24h
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO: Starting CrossDomainIntegrator (interval: 30s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO: Found 20 new item(s)
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 10:53:15: 2026-06-16 10:53:15 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:18: 2026-06-16 10:53:18 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 10:53:18: 2026-06-16 10:53:18 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:19: 2026-06-16 10:53:19 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 10:53:19: 2026-06-16 10:53:19 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:19: 2026-06-16 10:53:19 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 10:53:19: 2026-06-16 10:53:19 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:20: 2026-06-16 10:53:20 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e611c1edec70b9_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 10:53:20: 2026-06-16 10:53:20 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:21: 2026-06-16 10:53:21 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e5a2aaffe972a0_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 10:53:21: 2026-06-16 10:53:21 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:21: 2026-06-16 10:53:21 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 10:53:21: 2026-06-16 10:53:21 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:22: 2026-06-16 10:53:22 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 10:53:22: 2026-06-16 10:53:22 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:22: 2026-06-16 10:53:22 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 10:53:22: 2026-06-16 10:53:22 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:23: 2026-06-16 10:53:23 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 10:53:23: 2026-06-16 10:53:23 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:23: 2026-06-16 10:53:23 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf49609d6e0c_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-16 10:53:23: 2026-06-16 10:53:23 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:24: 2026-06-16 10:53:24 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf1400f928f4_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-16 10:53:24: 2026-06-16 10:53:24 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:25: 2026-06-16 10:53:25 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-16 10:53:25: 2026-06-16 10:53:25 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:26: 2026-06-16 10:53:26 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e42bfaf3becb4f_Please confirm your email.md  source=email  mcp=gmail-send  sender='Pinterest <confirm@account.pinterest.com>'  topics=['urgent']
+2026-06-16 10:53:26: 2026-06-16 10:53:26 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:27: 2026-06-16 10:53:27 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4291231036577_Account Security Alert.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-16 10:53:27: 2026-06-16 10:53:27 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:28: 2026-06-16 10:53:28 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md  source=email  mcp=gmail-send  sender='Meta <notification@email.meta.com>'  topics=['urgent']
+2026-06-16 10:53:28: 2026-06-16 10:53:28 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:29: 2026-06-16 10:53:29 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md  source=email  mcp=gmail-send  sender='Instagram <security@mail.instagram.com>'  topics=['urgent']
+2026-06-16 10:53:29: 2026-06-16 10:53:29 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 10:53:30: 2026-06-16 10:53:30 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-04.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-16 10:53:30: 2026-06-16 10:53:30 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-16 10:53:30: 2026-06-16 10:53:30 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-15.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-16 10:53:30: 2026-06-16 10:53:30 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-16 10:53:31: 2026-06-16 10:53:31 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-16.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-16 10:53:31: 2026-06-16 10:53:31 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO: CrossDomainIntegrator ready | dry_run=True | poll=30s | correlation_window=24h
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO:   Personal AI Employee — Cross-Domain Integrator
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO:   Vault      : /mnt/d/AI_Employee_Vault/AI_Employee_Vault
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO:   Source     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO:   Output     : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Cross_Domain/Needs_Action
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO:   Approval   : /mnt/d/AI_Employee_Vault/AI_Employee_Vault/Pending_Approval
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO:   Dry Run    : True
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO:   Poll       : 30s
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO:   Corr Window: 24h
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO: ==============================================================
+2026-06-16 13:08:31: 2026-06-16 13:08:31 [CrossDomainIntegrator] INFO: Starting CrossDomainIntegrator (interval: 30s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-16 13:08:33: 2026-06-16 13:08:33 [CrossDomainIntegrator] INFO: Found 20 new item(s)
+2026-06-16 13:08:33: 2026-06-16 13:08:33 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 13:08:33: 2026-06-16 13:08:33 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:34: 2026-06-16 13:08:34 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 13:08:34: 2026-06-16 13:08:34 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:34: 2026-06-16 13:08:34 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 13:08:34: 2026-06-16 13:08:34 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:34: 2026-06-16 13:08:34 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md  source=email  mcp=gmail-send  sender='DARAZ Pakistan <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 13:08:34: 2026-06-16 13:08:34 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:34: 2026-06-16 13:08:34 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e611c1edec70b9_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 13:08:34: 2026-06-16 13:08:34 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:34: 2026-06-16 13:08:34 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16e5a2aaffe972a0_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 13:08:34: 2026-06-16 13:08:34 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:35: 2026-06-16 13:08:35 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 13:08:35: 2026-06-16 13:08:35 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:35: 2026-06-16 13:08:35 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 13:08:35: 2026-06-16 13:08:35 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:36: 2026-06-16 13:08:36 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md  source=email  mcp=gmail-send  sender='Daraz PK <orders@orders.daraz.pk>'  topics=['urgent', 'offer']
+2026-06-16 13:08:36: 2026-06-16 13:08:36 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:36: 2026-06-16 13:08:36 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['urgent']
+2026-06-16 13:08:36: 2026-06-16 13:08:36 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:36: 2026-06-16 13:08:36 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf49609d6e0c_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-16 13:08:36: 2026-06-16 13:08:36 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:37: 2026-06-16 13:08:37 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_168ecf1400f928f4_Product review.md  source=email  mcp=gmail-send  sender='Daraz PK <noreply@support.daraz.pk>'  topics=['review', 'urgent']
+2026-06-16 13:08:37: 2026-06-16 13:08:37 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:37: 2026-06-16 13:08:37 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-16 13:08:37: 2026-06-16 13:08:37 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:38: 2026-06-16 13:08:38 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e42bfaf3becb4f_Please confirm your email.md  source=email  mcp=gmail-send  sender='Pinterest <confirm@account.pinterest.com>'  topics=['urgent']
+2026-06-16 13:08:38: 2026-06-16 13:08:38 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:38: 2026-06-16 13:08:38 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_15e4291231036577_Account Security Alert.md  source=email  mcp=gmail-send  sender='Google <no-reply@accounts.google.com>'  topics=['urgent']
+2026-06-16 13:08:38: 2026-06-16 13:08:38 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:38: 2026-06-16 13:08:38 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md  source=email  mcp=gmail-send  sender='Meta <notification@email.meta.com>'  topics=['urgent']
+2026-06-16 13:08:38: 2026-06-16 13:08:38 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:39: 2026-06-16 13:08:39 [CrossDomainIntegrator] INFO: [PERSONAL] EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md  source=email  mcp=gmail-send  sender='Instagram <security@mail.instagram.com>'  topics=['urgent']
+2026-06-16 13:08:39: 2026-06-16 13:08:39 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Cross_Domain/Needs_Action/
+2026-06-16 13:08:39: 2026-06-16 13:08:39 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-04.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-16 13:08:39: 2026-06-16 13:08:39 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-16 13:08:39: 2026-06-16 13:08:39 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-15.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-16 13:08:39: 2026-06-16 13:08:39 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/
+2026-06-16 13:08:39: 2026-06-16 13:08:39 [CrossDomainIntegrator] INFO: [PERSONAL] FILE_test_file_2026-06-16.md  source=file  mcp=pending_approval  sender='Unknown'  topics=['review']
+2026-06-16 13:08:39: 2026-06-16 13:08:39 [CrossDomainIntegrator] INFO:   [DRY RUN] Would route → /Pending_Approval/

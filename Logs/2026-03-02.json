@@ -1,0 +1,194 @@
+[
+  {
+    "timestamp": "2026-03-02T21:05:56.984069+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Gmail-Send MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:07:35.610545+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Odoo-Accounting MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:13:52.532740+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "LinkedIn-Post MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:14:37.397624+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Twitter MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:15:03.212537+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Social-Post MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:15:25.589948+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "YouTube MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:21:47.467383+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Facebook-Instagram MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:23:52.800678+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Gmail-Send MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:23:53.551968+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Odoo-Accounting MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:23:54.076339+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "LinkedIn-Post MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:23:54.418031+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Twitter MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:23:54.719873+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Social-Post MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:23:55.207952+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "YouTube MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:23:56.097219+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Facebook-Instagram MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:58:34.161773+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Gmail-Send MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:58:35.053080+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_restarted_pm2",
+    "details": {
+      "name": "Gmail-Send MCP"
+    }
+  },
+  {
+    "timestamp": "2026-03-02T22:13:05.284081+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Twitter MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-02T22:13:08.641374+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_restarted_pm2",
+    "details": {
+      "name": "Twitter MCP"
+    }
+  }
+]

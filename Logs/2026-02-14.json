@@ -1,0 +1,398 @@
+[
+  {
+    "timestamp": "2026-02-14T13:36:32.490469+00:00",
+    "actor": "orchestrator",
+    "action_type": "watcher_started",
+    "details": {
+      "name": "FileWatcher",
+      "pid": 10543
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:36:32.511086+00:00",
+    "actor": "orchestrator",
+    "action_type": "orchestrator_started",
+    "details": {
+      "dry_run": true,
+      "watchers": [
+        "FileWatcher"
+      ],
+      "poll_interval": 3
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:37:01.338575+00:00",
+    "actor": "orchestrator",
+    "action_type": "watcher_started",
+    "details": {
+      "name": "FileWatcher",
+      "pid": 10592
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:37:01.348255+00:00",
+    "actor": "orchestrator",
+    "action_type": "orchestrator_started",
+    "details": {
+      "dry_run": true,
+      "watchers": [
+        "FileWatcher"
+      ],
+      "poll_interval": 3
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:37:15.149719+00:00",
+    "actor": "orchestrator",
+    "action_type": "watcher_stopped",
+    "details": {
+      "name": "FileWatcher"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:37:15.179856+00:00",
+    "actor": "orchestrator",
+    "action_type": "orchestrator_stopped",
+    "details": {}
+  },
+  {
+    "timestamp": "2026-02-14T13:48:53.459300+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:48:56.482674+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:48:59.526911+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:02.555602+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:05.581513+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:08.627898+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:11.692049+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:14.721948+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:17.754443+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:21.459810+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:22.922573+00:00",
+    "actor": "ralph_loop",
+    "action_type": "ralph_loop_started",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md",
+      "max_iterations": 3,
+      "completion_mode": "promise"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:23.106981+00:00",
+    "actor": "ralph_loop",
+    "action_type": "ralph_iteration_done",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md",
+      "iteration": 1,
+      "completed": true,
+      "output_length": 19
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:23.318090+00:00",
+    "actor": "ralph_loop",
+    "action_type": "ralph_loop_completed",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md",
+      "iterations": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:24.559736+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:27.649514+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:30.956127+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:33.984386+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:37.045444+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:40.095702+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:43.410583+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:46.473619+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:49.545889+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:52.576114+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:56.741745+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:49:59.767463+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:02.832634+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:05.869482+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:08.928571+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:11.956383+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:15.021672+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:18.054572+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:21.184081+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:24.221304+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:28.019133+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:31.058980+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:34.102350+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:37.119022+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:40.157355+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T13:50:43.179294+00:00",
+    "actor": "orchestrator",
+    "action_type": "needs_action_dry_run",
+    "details": {
+      "file": "EMAIL_test_client_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T17:40:46.435163+00:00",
+    "watcher": "FileSystemWatcher",
+    "action_type": "file_drop_detected",
+    "details": {
+      "filename": "test_file.txt",
+      "size_kb": 0.0,
+      "action_file": "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/Needs_Action/FILE_test_file_2026-02-14.md"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T19:56:49.374395+00:00",
+    "actor": "hitl_workflow",
+    "action_type": "approval_requested",
+    "details": {
+      "file": "APPROVAL_email_send_Test_Email_to_Client_20260214_195649.md",
+      "action_type": "email_send",
+      "mcp_server": "gmail-send",
+      "mcp_tool": "send_email",
+      "priority": "normal"
+    }
+  }
+]

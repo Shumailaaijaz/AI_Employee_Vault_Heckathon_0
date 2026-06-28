@@ -1,0 +1,47 @@
+2026-02-25 12:59:13: python-dotenv could not parse statement starting at line 13
+2026-02-25 12:59:13: python-dotenv could not parse statement starting at line 20
+2026-02-25 12:59:13: 2026-02-25 12:59:13 [WeeklyAudit] INFO: === Weekly Audit starting (days_back=7, dry_run=True) ===
+2026-02-25 12:59:13: 2026-02-25 12:59:13 [WeeklyAudit] INFO: Connecting to Odoo at http://localhost:8069 …
+2026-02-25 12:59:14: 2026-02-25 12:59:14 [WeeklyAudit] WARNING: Odoo unreachable: Odoo Server Error
+2026-02-25 12:59:14: 2026-02-25 12:59:14 [WeeklyAudit] INFO: Parsing bank CSVs from Accounting/bank_statements …
+2026-02-25 12:59:14: 2026-02-25 12:59:14 [WeeklyAudit] WARNING: Bank: No bank CSV files found in Accounting/bank_statements/
+2026-02-25 12:59:14: 2026-02-25 12:59:14 [WeeklyAudit] INFO: Scanning vault …
+2026-02-25 12:59:15: 2026-02-25 12:59:15 [WeeklyAudit] INFO: Vault: backlog=21  done=0  plans=0  pending_approvals=1  log_actions=19
+2026-02-25 12:59:17: 2026-02-25 12:59:17 [WeeklyAudit] WARNING: 6 alert(s): [ERROR] odoo, [WARNING] bank, [INFO] bank, [WARNING] vault, [WARNING] vault, [WARNING] vault
+2026-02-25 12:59:17: 2026-02-25 12:59:17 [WeeklyAudit] INFO: [DRY RUN] Briefing preview (first 80 lines):
+2026-02-25 12:59:17: 2026-02-25 12:59:17 [WeeklyAudit] INFO: === Audit complete: 6 alert(s), 3 suggestion(s), dry_run=True ===
+2026-02-26 00:05:04: 2026-02-26 00:05:04 [WeeklyAudit] INFO: === Weekly Audit starting (days_back=7, dry_run=True) ===
+2026-02-26 00:05:04: 2026-02-26 00:05:04 [WeeklyAudit] INFO: Connecting to Odoo at http://localhost:8069 …
+2026-02-26 00:05:08: 2026-02-26 00:05:08 [WeeklyAudit] INFO: Odoo authenticated (uid=2)
+2026-02-26 00:05:08: 2026-02-26 00:05:08 [WeeklyAudit] INFO: Fetching Odoo financials …
+2026-02-26 00:05:08: 2026-02-26 00:05:08 [WeeklyAudit] ERROR: Odoo query failed: 404: Not Found
+2026-02-26 00:05:08: 2026-02-26 00:05:08 [WeeklyAudit] INFO: Parsing bank CSVs from Accounting/bank_statements …
+2026-02-26 00:05:08: 2026-02-26 00:05:08 [WeeklyAudit] WARNING: Bank: No bank CSV files found in Accounting/bank_statements/
+2026-02-26 00:05:08: 2026-02-26 00:05:08 [WeeklyAudit] INFO: Scanning vault …
+2026-02-26 00:05:09: 2026-02-26 00:05:09 [WeeklyAudit] WARNING: Could not parse log 2026-02-25.json: Expecting value: line 1 column 1 (char 0)
+2026-02-26 00:05:09: 2026-02-26 00:05:09 [WeeklyAudit] INFO: Vault: backlog=21  done=0  plans=0  pending_approvals=1  log_actions=16
+2026-02-26 00:05:09: 2026-02-26 00:05:09 [WeeklyAudit] WARNING: 5 alert(s): [WARNING] bank, [INFO] bank, [WARNING] vault, [WARNING] vault, [WARNING] vault
+2026-02-26 00:05:09: 2026-02-26 00:05:09 [WeeklyAudit] INFO: [DRY RUN] Briefing preview (first 80 lines):
+2026-02-26 00:05:09: 2026-02-26 00:05:09 [WeeklyAudit] INFO: === Audit complete: 5 alert(s), 3 suggestion(s), dry_run=True ===
+2026-02-27 11:00:30: 2026-02-27 11:00:30 [WeeklyAudit] INFO: === Weekly Audit starting (days_back=7, dry_run=True) ===
+2026-02-27 11:00:30: 2026-02-27 11:00:30 [WeeklyAudit] INFO: Connecting to Odoo at http://localhost:8069 …
+2026-02-27 11:00:41: 2026-02-27 11:00:41 [WeeklyAudit] INFO: Odoo authenticated (uid=2)
+2026-02-27 11:00:41: 2026-02-27 11:00:41 [WeeklyAudit] INFO: Fetching Odoo financials …
+2026-02-27 11:00:46: 2026-02-27 11:00:46 [WeeklyAudit] ERROR: Odoo query failed: 404: Not Found
+2026-02-27 11:00:46: 2026-02-27 11:00:46 [WeeklyAudit] INFO: Parsing bank CSVs from Accounting/bank_statements …
+2026-02-27 11:00:46: 2026-02-27 11:00:46 [WeeklyAudit] WARNING: Bank: No bank CSV files found in Accounting/bank_statements/
+2026-02-27 11:00:46: 2026-02-27 11:00:46 [WeeklyAudit] INFO: Scanning vault …
+2026-02-27 11:00:49: 2026-02-27 11:00:49 [WeeklyAudit] INFO: Vault: backlog=22  done=0  plans=0  pending_approvals=1  log_actions=34572
+2026-02-27 11:00:50: 2026-02-27 11:00:50 [WeeklyAudit] WARNING: 5 alert(s): [WARNING] bank, [INFO] bank, [WARNING] vault, [WARNING] vault, [WARNING] vault
+2026-02-27 11:00:50: 2026-02-27 11:00:50 [WeeklyAudit] INFO: [DRY RUN] Briefing preview (first 80 lines):
+2026-02-27 11:00:50: 2026-02-27 11:00:50 [WeeklyAudit] INFO: === Audit complete: 5 alert(s), 3 suggestion(s), dry_run=True ===
+2026-03-07 13:46:16: 2026-03-07 13:46:16 [WeeklyAudit] INFO: === Weekly Audit starting (days_back=7, dry_run=True) ===
+2026-03-07 13:46:16: 2026-03-07 13:46:16 [WeeklyAudit] INFO: Connecting to Odoo at http://localhost:8069 …
+2026-03-07 13:46:16: 2026-03-07 13:46:16 [WeeklyAudit] WARNING: Odoo unreachable: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2026-03-07 13:46:16: 2026-03-07 13:46:16 [WeeklyAudit] INFO: Parsing bank CSVs from Accounting/bank_statements …
+2026-03-07 13:46:16: 2026-03-07 13:46:16 [WeeklyAudit] WARNING: Bank: No bank CSV files found in Accounting/bank_statements/
+2026-03-07 13:46:16: 2026-03-07 13:46:16 [WeeklyAudit] INFO: Scanning vault …
+2026-03-07 13:46:26: 2026-03-07 13:46:26 [WeeklyAudit] INFO: Vault: backlog=0  done=0  plans=1  pending_approvals=1  log_actions=165
+2026-03-07 13:46:26: 2026-03-07 13:46:26 [WeeklyAudit] WARNING: 4 alert(s): [ERROR] odoo, [WARNING] bank, [INFO] bank, [WARNING] vault
+2026-03-07 13:46:29: 2026-03-07 13:46:29 [WeeklyAudit] INFO: [DRY RUN] Briefing preview (first 80 lines):
+2026-03-07 13:46:39: 2026-03-07 13:46:39 [WeeklyAudit] INFO: === Audit complete: 4 alert(s), 2 suggestion(s), dry_run=True ===

@@ -1,0 +1,75 @@
+2026-02-25 07:20:32: 2026-02-25 07:20:32 [dotenv.main] WARNING: python-dotenv could not parse statement starting at line 13
+2026-02-25 07:20:32: 2026-02-25 07:20:32 [dotenv.main] WARNING: python-dotenv could not parse statement starting at line 20
+2026-02-25 07:20:32: 2026-02-25 07:20:32 [TwitterWatcher] WARNING: Twitter credentials incomplete. Missing:
+2026-02-25 07:20:32:   TWITTER_BEARER_TOKEN (required for mentions)
+2026-02-25 07:20:32:   TWITTER_API_KEY + TWITTER_ACCESS_TOKEN (required for DMs)
+2026-02-25 07:20:32: Add them to .env — some features may not work.
+2026-02-25 07:20:32: 2026-02-25 07:20:32 [TwitterWatcher] INFO: Starting TwitterWatcher (interval: 150s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault)
+2026-02-25 07:21:40: Traceback (most recent call last):
+2026-02-25 07:21:40:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/twitter_watcher.py", line 600, in <module>
+2026-02-25 07:21:40:     watcher.run()
+2026-02-25 07:21:40:     ~~~~~~~~~~~^^
+2026-02-25 07:21:40:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/base_watcher.py", line 92, in run
+2026-02-25 07:21:40:     time.sleep(self.check_interval)
+2026-02-25 07:21:40:     ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+2026-02-25 07:21:40: KeyboardInterrupt
+2026-02-25 12:59:48: 2026-02-25 12:59:48 [dotenv.main] WARNING: python-dotenv could not parse statement starting at line 13
+2026-02-25 12:59:48: 2026-02-25 12:59:48 [dotenv.main] WARNING: python-dotenv could not parse statement starting at line 20
+2026-02-25 12:59:48: 2026-02-25 12:59:48 [TwitterWatcher] WARNING: Twitter credentials incomplete. Missing:
+2026-02-25 12:59:48:   TWITTER_BEARER_TOKEN (required for mentions)
+2026-02-25 12:59:48:   TWITTER_API_KEY + TWITTER_ACCESS_TOKEN (required for DMs)
+2026-02-25 12:59:48: Add them to .env — some features may not work.
+2026-02-25 12:59:48: 2026-02-25 12:59:48 [TwitterWatcher] INFO: Starting TwitterWatcher (interval: 150s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-02-26 00:04:53: Traceback (most recent call last):
+2026-02-26 00:04:53:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/twitter_watcher.py", line 607, in <module>
+2026-02-26 00:04:53:     watcher.run()
+2026-02-26 00:04:53:     ~~~~~~~~~~~^^
+2026-02-26 00:04:53:   File "/mnt/d/AI_Employee_Vault/AI_Employee_Vault/base_watcher.py", line 171, in run
+2026-02-26 00:04:53:     time.sleep(self.check_interval)
+2026-02-26 00:04:53:     ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+2026-02-26 00:04:53: KeyboardInterrupt
+2026-02-26 00:05:22: 2026-02-26 00:05:22 [TwitterWatcher] WARNING: Twitter credentials incomplete. Missing:
+2026-02-26 00:05:22:   TWITTER_BEARER_TOKEN (required for mentions)
+2026-02-26 00:05:22:   TWITTER_API_KEY + TWITTER_ACCESS_TOKEN (required for DMs)
+2026-02-26 00:05:22: Add them to .env — some features may not work.
+2026-02-26 00:05:22: 2026-02-26 00:05:22 [TwitterWatcher] INFO: Starting TwitterWatcher (interval: 150s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-02-27 11:00:48: 2026-02-27 11:00:48 [TwitterWatcher] WARNING: Twitter credentials incomplete. Missing:
+2026-02-27 11:00:48:   TWITTER_BEARER_TOKEN (required for mentions)
+2026-02-27 11:00:48:   TWITTER_API_KEY + TWITTER_ACCESS_TOKEN (required for DMs)
+2026-02-27 11:00:48: Add them to .env — some features may not work.
+2026-02-27 11:00:48: 2026-02-27 11:00:48 [TwitterWatcher] INFO: Starting TwitterWatcher (interval: 150s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-04 06:49:31: 2026-06-04 06:49:31 [TwitterWatcher] WARNING: Twitter credentials incomplete. Missing:
+2026-06-04 06:49:31:   TWITTER_BEARER_TOKEN (required for mentions)
+2026-06-04 06:49:31:   TWITTER_API_KEY + TWITTER_ACCESS_TOKEN (required for DMs)
+2026-06-04 06:49:31: Add them to .env — some features may not work.
+2026-06-04 06:49:31: 2026-06-04 06:49:31 [TwitterWatcher] INFO: Starting TwitterWatcher (interval: 150s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-04 12:48:42: 2026-06-04 12:48:42 [TwitterWatcher] WARNING: Twitter credentials incomplete. Missing:
+2026-06-04 12:48:42:   TWITTER_BEARER_TOKEN (required for mentions)
+2026-06-04 12:48:42:   TWITTER_API_KEY + TWITTER_ACCESS_TOKEN (required for DMs)
+2026-06-04 12:48:42: Add them to .env — some features may not work.
+2026-06-04 12:48:42: 2026-06-04 12:48:42 [TwitterWatcher] INFO: Starting TwitterWatcher (interval: 150s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-04 20:23:32: 2026-06-04 20:23:32 [TwitterWatcher] WARNING: Twitter credentials incomplete. Missing:
+2026-06-04 20:23:32:   TWITTER_BEARER_TOKEN (required for mentions)
+2026-06-04 20:23:32:   TWITTER_API_KEY + TWITTER_ACCESS_TOKEN (required for DMs)
+2026-06-04 20:23:32: Add them to .env — some features may not work.
+2026-06-04 20:23:32: 2026-06-04 20:23:32 [TwitterWatcher] INFO: Starting TwitterWatcher (interval: 150s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-16 01:24:14: 2026-06-16 01:24:14 [TwitterWatcher] WARNING: Twitter credentials incomplete. Missing:
+2026-06-16 01:24:14:   TWITTER_BEARER_TOKEN (required for mentions)
+2026-06-16 01:24:14:   TWITTER_API_KEY + TWITTER_ACCESS_TOKEN (required for DMs)
+2026-06-16 01:24:14: Add them to .env — some features may not work.
+2026-06-16 01:24:14: 2026-06-16 01:24:14 [TwitterWatcher] INFO: Starting TwitterWatcher (interval: 150s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-16 09:54:18: 2026-06-16 09:54:18 [TwitterWatcher] WARNING: Twitter credentials incomplete. Missing:
+2026-06-16 09:54:18:   TWITTER_BEARER_TOKEN (required for mentions)
+2026-06-16 09:54:18:   TWITTER_API_KEY + TWITTER_ACCESS_TOKEN (required for DMs)
+2026-06-16 09:54:18: Add them to .env — some features may not work.
+2026-06-16 09:54:18: 2026-06-16 09:54:18 [TwitterWatcher] INFO: Starting TwitterWatcher (interval: 150s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-16 10:53:30: 2026-06-16 10:53:30 [TwitterWatcher] WARNING: Twitter credentials incomplete. Missing:
+2026-06-16 10:53:30:   TWITTER_BEARER_TOKEN (required for mentions)
+2026-06-16 10:53:30:   TWITTER_API_KEY + TWITTER_ACCESS_TOKEN (required for DMs)
+2026-06-16 10:53:30: Add them to .env — some features may not work.
+2026-06-16 10:53:30: 2026-06-16 10:53:30 [TwitterWatcher] INFO: Starting TwitterWatcher (interval: 150s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)
+2026-06-16 13:08:45: 2026-06-16 13:08:45 [TwitterWatcher] WARNING: Twitter credentials incomplete. Missing:
+2026-06-16 13:08:45:   TWITTER_BEARER_TOKEN (required for mentions)
+2026-06-16 13:08:45:   TWITTER_API_KEY + TWITTER_ACCESS_TOKEN (required for DMs)
+2026-06-16 13:08:45: Add them to .env — some features may not work.
+2026-06-16 13:08:45: 2026-06-16 13:08:45 [TwitterWatcher] INFO: Starting TwitterWatcher (interval: 150s, vault: /mnt/d/AI_Employee_Vault/AI_Employee_Vault, circuit: CLOSED, queued: 0)

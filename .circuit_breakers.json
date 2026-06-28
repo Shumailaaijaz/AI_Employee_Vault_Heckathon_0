@@ -1,0 +1,22 @@
+{
+  "YouTubeWatcher": {
+    "state": "CLOSED",
+    "failure_times": [],
+    "opened_at": null
+  },
+  "FacebookInstagramWatcher": {
+    "state": "CLOSED",
+    "failure_times": [],
+    "opened_at": null
+  },
+  "CrossDomainIntegrator": {
+    "state": "CLOSED",
+    "failure_times": [],
+    "opened_at": null
+  },
+  "TwitterWatcher": {
+    "state": "CLOSED",
+    "failure_times": [],
+    "opened_at": null
+  }
+}

@@ -1,0 +1,348 @@
+[
+  {
+    "timestamp": "2026-02-28T00:00:00+00:00",
+    "action": "email_triage_batch",
+    "detail": "Archived 15 automated/transactional emails to /Done (Daraz orders, Google notifications, Pinterest, Daraz Affiliate OTPs)",
+    "items_processed": 15,
+    "result": "archived_no_action_required"
+  },
+  {
+    "timestamp": "2026-02-28T00:00:00+00:00",
+    "action": "test_files_archived",
+    "detail": "Archived 4 test/smoke files to /Done (FILE_test_file x3, _TEST_EMAIL_smoke)",
+    "items_processed": 4,
+    "result": "archived"
+  },
+  {
+    "timestamp": "2026-02-28T00:00:00+00:00",
+    "action": "audit_alerts_acknowledged",
+    "detail": "Processed 3 audit alerts: Odoo unreachable (ERROR), no bank CSV (WARNING), stale approval (WARNING). Created PLAN_system_issues_2026-02-28.md for human action.",
+    "items_processed": 3,
+    "result": "plan_created"
+  },
+  {
+    "timestamp": "2026-02-28T00:00:00+00:00",
+    "action": "stale_approval_flagged",
+    "detail": "APPROVAL_email_send_Test_Email_to_Client_20260214_195649.md is 13+ days old in Pending_Approval. Flagged in plan for human resolution.",
+    "result": "awaiting_human_decision"
+  },
+  {
+    "timestamp": "2026-02-27T21:03:23.044173+00:00",
+    "actor": "weekly_audit",
+    "action_type": "weekly_audit_run",
+    "details": {
+      "dry_run": true,
+      "briefing_path": null,
+      "alert_count": 3,
+      "error_alerts": 0,
+      "warn_alerts": 2,
+      "odoo_source": "unavailable",
+      "bank_source": "unavailable",
+      "invoiced": null,
+      "collected": null,
+      "overdue_ar": null,
+      "bank_inflow": null
+    }
+  },
+  {
+    "timestamp": "2026-02-27T21:12:16.592274+00:00",
+    "actor": "weekly_audit",
+    "action_type": "weekly_audit_run",
+    "details": {
+      "dry_run": true,
+      "briefing_path": null,
+      "alert_count": 3,
+      "error_alerts": 0,
+      "warn_alerts": 2,
+      "odoo_source": "unavailable",
+      "bank_source": "unavailable",
+      "invoiced": null,
+      "collected": null,
+      "overdue_ar": null,
+      "bank_inflow": null
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:30:16.022690+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Gmail-Send MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:30:55.695468+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Odoo-Accounting MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:31:59.808440+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "LinkedIn-Post MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:32:28.120965+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Twitter MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:32:58.227317+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Social-Post MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:39:04.351029+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "YouTube MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:39:27.313386+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Facebook-Instagram MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:41:22.708912+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Gmail-Send MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:41:23.294100+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Odoo-Accounting MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:41:23.843291+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "LinkedIn-Post MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:41:24.531209+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Twitter MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:41:30.720457+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_restarted_pm2",
+    "details": {
+      "name": "Social-Post MCP"
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:41:31.338338+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "YouTube MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:41:32.287942+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Facebook-Instagram MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:43:47.925328+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Odoo-Accounting MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:44:47.740046+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "LinkedIn-Post MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:45:09.386740+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Twitter MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:45:32.380272+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Social-Post MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:45:53.756847+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "YouTube MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:46:17.651276+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Facebook-Instagram MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:48:05.198553+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Odoo-Accounting MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:48:05.729116+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "LinkedIn-Post MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:48:06.232240+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Twitter MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:48:06.943138+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Social-Post MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:48:08.537578+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "YouTube MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T05:48:11.778720+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Facebook-Instagram MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  }
+]

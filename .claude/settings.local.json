@@ -1,0 +1,11 @@
+{
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "linkedin-post"
+  ],
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -X POST http://localhost:8069/web/session/authenticate \\\\\n  -H \"Content-Type: application/json\" \\\\\n  -d '{\n    \"jsonrpc\": \"2.0\",\n    \"method\": \"call\",\n    \"id\": 1,\n    \"params\": {\n      \"db\": \"odoo-ai-FTE\",\n      \"login\": \"hdrshumaila@gmail.com\",\n      \"password\": \"112211@5533@Khi\"\n    }\n  }' 2>&1 | python3 -m json.tool 2>/dev/null || echo \"RAW RESPONSE FOLLOWS:\" && curl -s -X POST http://localhost:8069/web/session/authenticate -H \"Content-Type: application/json\" -d '{\"jsonrpc\":\"2.0\",\"method\":\"call\",\"id\":1,\"params\":{\"db\":\"odoo-ai-FTE\",\"login\":\"hdrshumaila@gmail.com\",\"password\":\"112211@5533@Khi\"}}')"
+    ]
+  }
+}

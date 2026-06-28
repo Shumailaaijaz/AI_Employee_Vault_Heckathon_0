@@ -1,0 +1,16 @@
+{
+  "name": "gmail-send-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for sending emails via Gmail API — drafts and sends with HITL approval",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "auth": "node auth.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "dotenv": "^16.4.7",
+    "googleapis": "^144.0.0"
+  }
+}

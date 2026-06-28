@@ -1,0 +1,16 @@
+{
+  "name": "odoo-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Odoo Community 19+ via JSON-RPC - Accounting integration",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "dotenv": "^16.4.7",
+    "node-fetch": "^3.3.2"
+  }
+}

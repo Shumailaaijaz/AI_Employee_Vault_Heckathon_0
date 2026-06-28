@@ -1,0 +1,343 @@
+[
+  {
+    "timestamp": "2026-02-24T19:04:26.044221+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "FILE_test_file_2026-02-14.md",
+      "domain": "personal",
+      "source_type": "file",
+      "sender": "Unknown",
+      "mcp_route": null,
+      "requires_approval": true,
+      "priority": "medium",
+      "matched_topics": [
+        "review"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] FILE_test_file_2026-02-14.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.075714+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.105685+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.173642+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.216919+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.249286+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_16e611c1edec70b9_A seller answered your question.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "Daraz PK <noreply@support.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_16e611c1edec70b9_A seller answered your question.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.278367+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_16e5a2aaffe972a0_A seller answered your question.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "Daraz PK <noreply@support.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_16e5a2aaffe972a0_A seller answered your question.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.490777+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "Daraz PK <orders@orders.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent",
+        "offer"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.530671+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "Daraz PK <orders@orders.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent",
+        "offer"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.575047+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "Daraz PK <orders@orders.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent",
+        "offer"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.604640+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "Daraz PK <noreply@support.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.644496+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_168ecf49609d6e0c_Product review.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "Daraz PK <noreply@support.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "review",
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_168ecf49609d6e0c_Product review.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.692073+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_168ecf1400f928f4_Product review.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "Daraz PK <noreply@support.daraz.pk>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "review",
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_168ecf1400f928f4_Product review.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.726390+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "Google <no-reply@accounts.google.com>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.757110+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_15e42bfaf3becb4f_Please confirm your email.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "Pinterest <confirm@account.pinterest.com>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_15e42bfaf3becb4f_Please confirm your email.md",
+      "dry_run": true
+    }
+  },
+  {
+    "timestamp": "2026-02-24T19:04:26.790551+00:00",
+    "watcher": "CrossDomainIntegrator",
+    "action_type": "cross_domain_routed",
+    "details": {
+      "source_file": "EMAIL_15e4291231036577_Account Security Alert.md",
+      "domain": "personal",
+      "source_type": "email",
+      "sender": "Google <no-reply@accounts.google.com>",
+      "mcp_route": "gmail-send",
+      "requires_approval": false,
+      "priority": "high",
+      "matched_topics": [
+        "urgent"
+      ],
+      "correlations": 0,
+      "correlation_ids": [],
+      "output_file": "[DRY RUN] EMAIL_15e4291231036577_Account Security Alert.md",
+      "dry_run": true
+    }
+  }
+]

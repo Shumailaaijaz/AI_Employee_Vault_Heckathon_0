@@ -1,0 +1,314 @@
+[
+  {
+    "timestamp": "2026-03-05T18:11:02.154377+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Gmail-Send MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:11:30.225750+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Odoo-Accounting MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:12:07.555454+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Facebook-Instagram MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:16:20.712395+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_restarted_pm2",
+    "details": {
+      "name": "Facebook-Instagram MCP"
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:17:52.635984+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Gmail-Send MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:17:52.883347+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Odoo-Accounting MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:34:19.371245+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "LinkedIn-Post MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:34:40.196200+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Twitter MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:34:52.706431+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_restarted_pm2",
+    "details": {
+      "name": "Twitter MCP"
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:36:26.658982+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "LinkedIn-Post MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:46:46.562832+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "LinkedIn-Post MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:46:49.116742+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_restarted_pm2",
+    "details": {
+      "name": "LinkedIn-Post MCP"
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:52:43.214020+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Odoo-Accounting MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:54:56.217159+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Gmail-Send MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:55:00.935716+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_restarted_pm2",
+    "details": {
+      "name": "Gmail-Send MCP"
+    }
+  },
+  {
+    "timestamp": "2026-03-05T18:55:15.037197+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_restarted_pm2",
+    "details": {
+      "name": "Odoo-Accounting MCP"
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:28:42.630692+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Gmail-Send MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:29:04.016517+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Odoo-Accounting MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:29:25.248767+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "LinkedIn-Post MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:29:45.527087+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Twitter MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:30:16.680975+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Social-Post MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:30:41.508913+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "YouTube MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:30:47.893867+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_restarted_pm2",
+    "details": {
+      "name": "YouTube MCP"
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:31:00.521223+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Facebook-Instagram MCP",
+      "previous": "healthy",
+      "current": "down",
+      "failures": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:33:13.626510+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Gmail-Send MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:33:15.390694+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Odoo-Accounting MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:33:16.667129+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "LinkedIn-Post MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:33:18.352289+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Twitter MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:33:19.515882+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Social-Post MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-05T19:33:22.476485+00:00",
+    "actor": "orchestrator",
+    "action_type": "mcp_health_changed",
+    "details": {
+      "name": "Facebook-Instagram MCP",
+      "previous": "down",
+      "current": "healthy",
+      "failures": 0
+    }
+  }
+]

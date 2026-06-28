@@ -1,0 +1,970 @@
+[
+  {
+    "item_hash": "8f1ceccc846f74a6",
+    "filename": "EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:07.739242+00:00"
+  },
+  {
+    "item_hash": "d7722d260294a122",
+    "filename": "EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:07.987549+00:00"
+  },
+  {
+    "item_hash": "80da12c659ac14af",
+    "filename": "EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:08.040737+00:00"
+  },
+  {
+    "item_hash": "824f30c48c248824",
+    "filename": "EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:08.126404+00:00"
+  },
+  {
+    "item_hash": "90e9e48a26f12000",
+    "filename": "EMAIL_16e611c1edec70b9_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:08.164852+00:00"
+  },
+  {
+    "item_hash": "e702583d488fd88c",
+    "filename": "EMAIL_16e5a2aaffe972a0_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:08.226103+00:00"
+  },
+  {
+    "item_hash": "eacdb8a0e56bc12a",
+    "filename": "EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-15T20:23:08.343510+00:00"
+  },
+  {
+    "item_hash": "e7bf930cc82ae516",
+    "filename": "EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-15T20:23:08.413366+00:00"
+  },
+  {
+    "item_hash": "775d75d3a90f929b",
+    "filename": "EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-15T20:23:08.628952+00:00"
+  },
+  {
+    "item_hash": "3e52a5e5216aaa04",
+    "filename": "EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:08.785436+00:00"
+  },
+  {
+    "item_hash": "3e39a851d4942978",
+    "filename": "EMAIL_168ecf49609d6e0c_Product review.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "review",
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:08.846675+00:00"
+  },
+  {
+    "item_hash": "c483367273d0af4d",
+    "filename": "EMAIL_168ecf1400f928f4_Product review.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "review",
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:08.897765+00:00"
+  },
+  {
+    "item_hash": "fe13b1c2452d66ca",
+    "filename": "EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Google <no-reply@accounts.google.com>",
+    "sender_norm": "google",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:09.419925+00:00"
+  },
+  {
+    "item_hash": "c528a535bc2c78c7",
+    "filename": "EMAIL_15e42bfaf3becb4f_Please confirm your email.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Pinterest <confirm@account.pinterest.com>",
+    "sender_norm": "pinterest",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:09.769865+00:00"
+  },
+  {
+    "item_hash": "a739cf0699d6968b",
+    "filename": "EMAIL_15e4291231036577_Account Security Alert.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Google <no-reply@accounts.google.com>",
+    "sender_norm": "google",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:09.941912+00:00"
+  },
+  {
+    "item_hash": "b8d47188a3b71905",
+    "filename": "EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Meta <notification@email.meta.com>",
+    "sender_norm": "meta",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:10.204151+00:00"
+  },
+  {
+    "item_hash": "88842351d70804eb",
+    "filename": "EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Instagram <security@mail.instagram.com>",
+    "sender_norm": "instagram",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-15T20:23:10.417663+00:00"
+  },
+  {
+    "item_hash": "817a37644ea3a522",
+    "filename": "FILE_test_file_2026-06-04.md",
+    "domain": "personal",
+    "source_type": "file",
+    "sender": "Unknown",
+    "sender_norm": "unknown",
+    "topics": [
+      "review"
+    ],
+    "detected_at": "2026-06-15T20:23:10.572657+00:00"
+  },
+  {
+    "item_hash": "d4a2a2b17eef92dc",
+    "filename": "FILE_test_file_2026-06-15.md",
+    "domain": "personal",
+    "source_type": "file",
+    "sender": "Unknown",
+    "sender_norm": "unknown",
+    "topics": [
+      "review"
+    ],
+    "detected_at": "2026-06-15T20:23:41.181437+00:00"
+  },
+  {
+    "item_hash": "8f1ceccc846f74a6",
+    "filename": "EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:53.207412+00:00"
+  },
+  {
+    "item_hash": "d7722d260294a122",
+    "filename": "EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:53.623390+00:00"
+  },
+  {
+    "item_hash": "80da12c659ac14af",
+    "filename": "EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:53.865960+00:00"
+  },
+  {
+    "item_hash": "824f30c48c248824",
+    "filename": "EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:54.446699+00:00"
+  },
+  {
+    "item_hash": "90e9e48a26f12000",
+    "filename": "EMAIL_16e611c1edec70b9_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:54.633540+00:00"
+  },
+  {
+    "item_hash": "e702583d488fd88c",
+    "filename": "EMAIL_16e5a2aaffe972a0_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:54.982165+00:00"
+  },
+  {
+    "item_hash": "eacdb8a0e56bc12a",
+    "filename": "EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-16T04:53:55.565132+00:00"
+  },
+  {
+    "item_hash": "e7bf930cc82ae516",
+    "filename": "EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-16T04:53:55.941143+00:00"
+  },
+  {
+    "item_hash": "775d75d3a90f929b",
+    "filename": "EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-16T04:53:56.127846+00:00"
+  },
+  {
+    "item_hash": "3e52a5e5216aaa04",
+    "filename": "EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:56.412978+00:00"
+  },
+  {
+    "item_hash": "3e39a851d4942978",
+    "filename": "EMAIL_168ecf49609d6e0c_Product review.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "review",
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:56.894315+00:00"
+  },
+  {
+    "item_hash": "c483367273d0af4d",
+    "filename": "EMAIL_168ecf1400f928f4_Product review.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "review",
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:57.276371+00:00"
+  },
+  {
+    "item_hash": "fe13b1c2452d66ca",
+    "filename": "EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Google <no-reply@accounts.google.com>",
+    "sender_norm": "google",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:57.898234+00:00"
+  },
+  {
+    "item_hash": "c528a535bc2c78c7",
+    "filename": "EMAIL_15e42bfaf3becb4f_Please confirm your email.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Pinterest <confirm@account.pinterest.com>",
+    "sender_norm": "pinterest",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:58.463761+00:00"
+  },
+  {
+    "item_hash": "a739cf0699d6968b",
+    "filename": "EMAIL_15e4291231036577_Account Security Alert.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Google <no-reply@accounts.google.com>",
+    "sender_norm": "google",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:53:59.019904+00:00"
+  },
+  {
+    "item_hash": "b8d47188a3b71905",
+    "filename": "EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Meta <notification@email.meta.com>",
+    "sender_norm": "meta",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:54:00.713374+00:00"
+  },
+  {
+    "item_hash": "88842351d70804eb",
+    "filename": "EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Instagram <security@mail.instagram.com>",
+    "sender_norm": "instagram",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T04:54:01.291449+00:00"
+  },
+  {
+    "item_hash": "817a37644ea3a522",
+    "filename": "FILE_test_file_2026-06-04.md",
+    "domain": "personal",
+    "source_type": "file",
+    "sender": "Unknown",
+    "sender_norm": "unknown",
+    "topics": [
+      "review"
+    ],
+    "detected_at": "2026-06-16T04:54:01.897125+00:00"
+  },
+  {
+    "item_hash": "d4a2a2b17eef92dc",
+    "filename": "FILE_test_file_2026-06-15.md",
+    "domain": "personal",
+    "source_type": "file",
+    "sender": "Unknown",
+    "sender_norm": "unknown",
+    "topics": [
+      "review"
+    ],
+    "detected_at": "2026-06-16T04:54:02.408267+00:00"
+  },
+  {
+    "item_hash": "015d305b1340c7e5",
+    "filename": "FILE_test_file_2026-06-16.md",
+    "domain": "personal",
+    "source_type": "file",
+    "sender": "Unknown",
+    "sender_norm": "unknown",
+    "topics": [
+      "review"
+    ],
+    "detected_at": "2026-06-16T04:54:32.884000+00:00"
+  },
+  {
+    "item_hash": "8f1ceccc846f74a6",
+    "filename": "EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:15.817430+00:00"
+  },
+  {
+    "item_hash": "d7722d260294a122",
+    "filename": "EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:18.715400+00:00"
+  },
+  {
+    "item_hash": "80da12c659ac14af",
+    "filename": "EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:19.337065+00:00"
+  },
+  {
+    "item_hash": "824f30c48c248824",
+    "filename": "EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:19.873025+00:00"
+  },
+  {
+    "item_hash": "90e9e48a26f12000",
+    "filename": "EMAIL_16e611c1edec70b9_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:20.267341+00:00"
+  },
+  {
+    "item_hash": "e702583d488fd88c",
+    "filename": "EMAIL_16e5a2aaffe972a0_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:21.041058+00:00"
+  },
+  {
+    "item_hash": "eacdb8a0e56bc12a",
+    "filename": "EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-16T05:53:21.861900+00:00"
+  },
+  {
+    "item_hash": "e7bf930cc82ae516",
+    "filename": "EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-16T05:53:22.322770+00:00"
+  },
+  {
+    "item_hash": "775d75d3a90f929b",
+    "filename": "EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-16T05:53:22.940216+00:00"
+  },
+  {
+    "item_hash": "3e52a5e5216aaa04",
+    "filename": "EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:23.479338+00:00"
+  },
+  {
+    "item_hash": "3e39a851d4942978",
+    "filename": "EMAIL_168ecf49609d6e0c_Product review.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "review",
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:23.993311+00:00"
+  },
+  {
+    "item_hash": "c483367273d0af4d",
+    "filename": "EMAIL_168ecf1400f928f4_Product review.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "review",
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:24.310852+00:00"
+  },
+  {
+    "item_hash": "fe13b1c2452d66ca",
+    "filename": "EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Google <no-reply@accounts.google.com>",
+    "sender_norm": "google",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:25.963167+00:00"
+  },
+  {
+    "item_hash": "c528a535bc2c78c7",
+    "filename": "EMAIL_15e42bfaf3becb4f_Please confirm your email.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Pinterest <confirm@account.pinterest.com>",
+    "sender_norm": "pinterest",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:26.631749+00:00"
+  },
+  {
+    "item_hash": "a739cf0699d6968b",
+    "filename": "EMAIL_15e4291231036577_Account Security Alert.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Google <no-reply@accounts.google.com>",
+    "sender_norm": "google",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:27.388624+00:00"
+  },
+  {
+    "item_hash": "b8d47188a3b71905",
+    "filename": "EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Meta <notification@email.meta.com>",
+    "sender_norm": "meta",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:28.658528+00:00"
+  },
+  {
+    "item_hash": "88842351d70804eb",
+    "filename": "EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Instagram <security@mail.instagram.com>",
+    "sender_norm": "instagram",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T05:53:29.341018+00:00"
+  },
+  {
+    "item_hash": "817a37644ea3a522",
+    "filename": "FILE_test_file_2026-06-04.md",
+    "domain": "personal",
+    "source_type": "file",
+    "sender": "Unknown",
+    "sender_norm": "unknown",
+    "topics": [
+      "review"
+    ],
+    "detected_at": "2026-06-16T05:53:30.001400+00:00"
+  },
+  {
+    "item_hash": "d4a2a2b17eef92dc",
+    "filename": "FILE_test_file_2026-06-15.md",
+    "domain": "personal",
+    "source_type": "file",
+    "sender": "Unknown",
+    "sender_norm": "unknown",
+    "topics": [
+      "review"
+    ],
+    "detected_at": "2026-06-16T05:53:30.911801+00:00"
+  },
+  {
+    "item_hash": "015d305b1340c7e5",
+    "filename": "FILE_test_file_2026-06-16.md",
+    "domain": "personal",
+    "source_type": "file",
+    "sender": "Unknown",
+    "sender_norm": "unknown",
+    "topics": [
+      "review"
+    ],
+    "detected_at": "2026-06-16T05:53:31.318129+00:00"
+  },
+  {
+    "item_hash": "8f1ceccc846f74a6",
+    "filename": "EMAIL_19c2f82039def014_Order Being Processed 236119801752494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:33.742723+00:00"
+  },
+  {
+    "item_hash": "d7722d260294a122",
+    "filename": "EMAIL_19c2f2eaf9455972_Yay your Order 236115215052494 is confirmed.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:34.190931+00:00"
+  },
+  {
+    "item_hash": "80da12c659ac14af",
+    "filename": "EMAIL_192351ed25b5ed67_Daraz Affiliate Verification Code.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:34.310084+00:00"
+  },
+  {
+    "item_hash": "824f30c48c248824",
+    "filename": "EMAIL_1919d69cb5dc931c_Daraz Affiliate Verification Code.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "DARAZ Pakistan <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pakistan",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:34.473069+00:00"
+  },
+  {
+    "item_hash": "90e9e48a26f12000",
+    "filename": "EMAIL_16e611c1edec70b9_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:34.611858+00:00"
+  },
+  {
+    "item_hash": "e702583d488fd88c",
+    "filename": "EMAIL_16e5a2aaffe972a0_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:34.738921+00:00"
+  },
+  {
+    "item_hash": "eacdb8a0e56bc12a",
+    "filename": "EMAIL_16bc221a683be699_Your Items has been Shipped 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-16T08:08:35.104300+00:00"
+  },
+  {
+    "item_hash": "e7bf930cc82ae516",
+    "filename": "EMAIL_16bc1f1b955ced75_Your Items is in Transit 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-16T08:08:35.346463+00:00"
+  },
+  {
+    "item_hash": "775d75d3a90f929b",
+    "filename": "EMAIL_16bc05e25c7a0e07_Your Order has been Confirmed 104836972452494.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <orders@orders.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent",
+      "offer"
+    ],
+    "detected_at": "2026-06-16T08:08:36.121420+00:00"
+  },
+  {
+    "item_hash": "3e52a5e5216aaa04",
+    "filename": "EMAIL_16a3fda1a2e7f0b4_A seller answered your question.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:36.421209+00:00"
+  },
+  {
+    "item_hash": "3e39a851d4942978",
+    "filename": "EMAIL_168ecf49609d6e0c_Product review.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "review",
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:36.616356+00:00"
+  },
+  {
+    "item_hash": "c483367273d0af4d",
+    "filename": "EMAIL_168ecf1400f928f4_Product review.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Daraz PK <noreply@support.daraz.pk>",
+    "sender_norm": "daraz pk",
+    "topics": [
+      "review",
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:37.012178+00:00"
+  },
+  {
+    "item_hash": "fe13b1c2452d66ca",
+    "filename": "EMAIL_15e4ea0b7e5dd616_academiaedu connected to your Google Account.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Google <no-reply@accounts.google.com>",
+    "sender_norm": "google",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:37.457353+00:00"
+  },
+  {
+    "item_hash": "c528a535bc2c78c7",
+    "filename": "EMAIL_15e42bfaf3becb4f_Please confirm your email.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Pinterest <confirm@account.pinterest.com>",
+    "sender_norm": "pinterest",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:38.056594+00:00"
+  },
+  {
+    "item_hash": "a739cf0699d6968b",
+    "filename": "EMAIL_15e4291231036577_Account Security Alert.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Google <no-reply@accounts.google.com>",
+    "sender_norm": "google",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:38.391255+00:00"
+  },
+  {
+    "item_hash": "b8d47188a3b71905",
+    "filename": "EMAIL_19cc9fbc3c632eec_Confirm your email address for your new Meta accou.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Meta <notification@email.meta.com>",
+    "sender_norm": "meta",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:38.714693+00:00"
+  },
+  {
+    "item_hash": "88842351d70804eb",
+    "filename": "EMAIL_19cca00a406c21a5_Did you just add an account to your Accounts Cente.md",
+    "domain": "personal",
+    "source_type": "email",
+    "sender": "Instagram <security@mail.instagram.com>",
+    "sender_norm": "instagram",
+    "topics": [
+      "urgent"
+    ],
+    "detected_at": "2026-06-16T08:08:39.133639+00:00"
+  },
+  {
+    "item_hash": "817a37644ea3a522",
+    "filename": "FILE_test_file_2026-06-04.md",
+    "domain": "personal",
+    "source_type": "file",
+    "sender": "Unknown",
+    "sender_norm": "unknown",
+    "topics": [
+      "review"
+    ],
+    "detected_at": "2026-06-16T08:08:39.406752+00:00"
+  },
+  {
+    "item_hash": "d4a2a2b17eef92dc",
+    "filename": "FILE_test_file_2026-06-15.md",
+    "domain": "personal",
+    "source_type": "file",
+    "sender": "Unknown",
+    "sender_norm": "unknown",
+    "topics": [
+      "review"
+    ],
+    "detected_at": "2026-06-16T08:08:39.642341+00:00"
+  },
+  {
+    "item_hash": "015d305b1340c7e5",
+    "filename": "FILE_test_file_2026-06-16.md",
+    "domain": "personal",
+    "source_type": "file",
+    "sender": "Unknown",
+    "sender_norm": "unknown",
+    "topics": [
+      "review"
+    ],
+    "detected_at": "2026-06-16T08:08:39.838952+00:00"
+  }
+]
